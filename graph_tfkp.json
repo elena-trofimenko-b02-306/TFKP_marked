@@ -1,0 +1,2358 @@
+"nodes": [
+{
+id: "C01",
+name: "Комплексные числа",
+type: "Chapter"
+},
+{
+id: "B01.01.01",
+name: "Введение в комплексный анализ",
+type: "Text"
+},
+{
+id: "C01.01",
+name: "Алгебра комплексных чисел",
+type: "Chapter"
+},
+{
+id: "TX01.01.01",
+name: "Определение комплексных чисел",
+type: "Text"
+},
+{
+id: "D01.01.01",
+name: "Равенство комплексных чисел",
+type: "Definition"
+},
+{
+id: "TX01.01.02",
+name: "Арифметические операции с комплексными числами",
+type: "Text"
+},
+{
+id: "D01.01.02",
+name: "Комплексное сопряжение",
+type: "Definition"
+},
+{
+id: "PROP01.01.01",
+name: "Инволютивность сопряжения",
+type: "Property"
+},
+{
+id: "PROP01.01.02",
+name: "Выражение вещественной и мнимой частей",
+type: "Property"
+},
+{
+id: "PROP01.01.03",
+name: "Свойства сопряжения для операций",
+type: "Property"
+},
+{
+id: "TX01.01.03",
+name: "Свойства сопряжения и модуля",
+type: "Text"
+},
+{
+id: "D01.01.03",
+name: "Модуль комплексного числа",
+type: "Definition"
+},
+{
+id: "PROP01.01.04",
+name: "Свойство модуля и сопряжения",
+type: "Property"
+},
+{
+id: "PROP01.01.05",
+name: "Модуль произведения",
+type: "Property"
+},
+{
+id: "PROP01.01.06",
+name: "Модуль частного",
+type: "Property"
+},
+{
+id: "TX01.01.04",
+name: "Неравенства для модуля",
+type: "Text"
+},
+{
+id: "T01.01.01",
+name: "Неравенство треугольника",
+type: "Theorem"
+},
+{
+id: "PT01.01.01",
+name: "Доказательство неравенства треугольника",
+type: "Proof of theorem"
+},
+{
+id: "PROP01.01.07",
+name: "Оценка разности модулей",
+type: "Property"
+},
+{
+id: "C01.02.01",
+name: "Геометрическое представление комплексных чисел",
+type: "Chapter"
+},
+{
+id: "TX01.02.01",
+name: "Геометрическая интерпретация",
+type: "Text"
+},
+{
+id: "D01.02.01",
+name: "Тригонометрическая форма комплексного числа",
+type: "Definition"
+},
+{
+id: "TX01.02.02",
+name: "Аргумент комплексного числа",
+type: "Text"
+},
+{
+id: "T01.02.01",
+name: "Умножение комплексных чисел в тригонометрической форме",
+type: "Theorem"
+},
+{
+id: "TX01.02.03",
+name: "Сложение аргументов при умножении",
+type: "Text"
+},
+{
+id: "PROP01.02.01",
+name: "Аргумент частного",
+type: "Property"
+},
+{
+id: "T01.02.02",
+name: "Биномиальное уравнение",
+type: "Theorem"
+},
+{
+id: "L01.02.01",
+name: "Формула Муавра",
+type: "Lemma"
+},
+{
+id: "PT01.02.01",
+name: "Доказательство решения биномиального уравнения",
+type: "Proof of theorem"
+},
+{
+id: "C01.03.01",
+name: "Последовательности и ряды. Расширенная комплексная плоскость",
+type: "Chapter"
+},
+{
+id: "TX01.03.01",
+name: "Введение в последовательности",
+type: "Text"
+},
+{
+id: "D01.03.01",
+name: "Окрестность точки",
+type: "Definition"
+},
+{
+id: "TX01.03.02",
+name: "Геометрический смысл окрестности",
+type: "Text"
+},
+{
+id: "D01.03.02",
+name: "Замкнутый круг",
+type: "Definition"
+},
+{
+id: "D01.03.03",
+name: "Проколотая окрестность",
+type: "Definition"
+},
+{
+id: "D01.03.04",
+name: "Предел последовательности",
+type: "Definition"
+},
+{
+id: "TX01.03.03",
+name: "Сходящаяся последовательность",
+type: "Text"
+},
+{
+id: "T01.03.01",
+name: "Критерий сходимости через вещественные и мнимые части",
+type: "Theorem"
+},
+{
+id: "TX01.03.04",
+name: "Сходимость последовательности комплексных чисел",
+type: "Text"
+},
+{
+id: "T01.03.02",
+name: "Критерий Коши для последовательностей",
+type: "Theorem"
+},
+{
+id: "TX01.03.05",
+name: "Свойства сходящихся последовательностей",
+type: "Text"
+},
+{
+id: "D01.03.05",
+name: "Стремление к бесконечности",
+type: "Definition"
+},
+{
+id: "TX01.03.06",
+name: "Расширенная комплексная плоскость",
+type: "Text"
+},
+{
+id: "D01.03.06",
+name: "Окрестность бесконечности",
+type: "Definition"
+},
+{
+id: "D01.03.07",
+name: "Расширенная комплексная плоскость",
+type: "Definition"
+},
+{
+id: "T01.03.03",
+name: "Принцип Больцано-Вейерштрасса",
+type: "Theorem"
+},
+{
+id: "PT01.03.01",
+name: "Доказательство принципа Больцано-Вейерштрасса",
+type: "Proof of theorem"
+},
+{
+id: "TX01.03.07",
+name: "Стереографическая проекция",
+type: "Text"
+},
+{
+id: "D01.03.08",
+name: "Стереографическая проекция",
+type: "Definition"
+},
+{
+id: "T01.03.04",
+name: "Взаимно-однозначное соответствие сферы и плоскости",
+type: "Theorem"
+},
+{
+id: "PT01.03.02",
+name: "Доказательство соответствия сферы и плоскости",
+type: "Proof of theorem"
+},
+{
+id: "TX01.03.08",
+name: "Свойства стереографической проекции",
+type: "Text"
+},
+{
+id: "D01.03.09",
+name: "Числовой ряд",
+type: "Definition"
+},
+{
+id: "D01.03.10",
+name: "Частичные суммы ряда",
+type: "Definition"
+},
+{
+id: "D01.03.11",
+name: "Сходимость ряда",
+type: "Definition"
+},
+{
+id: "D01.03.12",
+name: "Сумма ряда",
+type: "Definition"
+},
+{
+id: "T01.03.05",
+name: "Критерий сходимости ряда через вещественные и мнимые части",
+type: "Theorem"
+},
+{
+id: "T01.03.06",
+name: "Критерий Коши для рядов",
+type: "Theorem"
+},
+{
+id: "TX01.03.09",
+name: "Абсолютная сходимость",
+type: "Text"
+},
+{
+id: "T01.03.07",
+name: "Необходимое условие сходимости ряда",
+type: "Theorem"
+},
+  {
+id : "C02.01",
+name: "Комплексная дифференцируемость",
+type: "Chapter"
+},
+{
+id : "TX02.01.01",
+name: "Введение в теорию функций комплексного переменного",
+type: "Text"
+},
+{
+id : "D02.01.01",
+name: "Функция комплексного переменного",
+type: "Definition"
+},
+{
+id : "TX02.01.02",
+name: "Представление функции через вещественные компоненты",
+type: "Text"
+},
+{
+id : "D02.01.02",
+name: "Предел функции комплексного переменного",
+type: "Definition"
+},
+{
+id : "TX02.01.03",
+name: "Пределы в бесконечности и свойства",
+type: "Text"
+},
+{
+id : "PROP02.01.01",
+name: "Свойство предела и сопряжения",
+type: "Property"
+},
+{
+id : "TX02.01.04",
+name: "Пределы действительной и мнимой частей",
+type: "Text"
+},
+{
+id : "D02.01.03",
+name: "Непрерывность функции комплексного переменного",
+type: "Definition"
+},
+{
+id : "TX02.01.05",
+name: "Свойства непрерывных функций",
+type: "Text"
+},
+{
+id : "PROP02.01.02",
+name: "Непрерывность компонент и модуля",
+type: "Property"
+},
+{
+id : "D02.01.04",
+name: "Производная функции комплексного переменного",
+type: "Definition"
+},
+{
+id : "TX02.01.06",
+name: "Правила дифференцирования и свойства",
+type: "Text"
+},
+{
+id : "T02.01.01",
+name: "Условия дифференцируемости функции комплексного переменного",
+type: "Theorem"
+},
+{
+id : "PT02.01.01",
+name: "Доказательство условий дифференцируемости",
+type: "Proof of theorem"
+},
+{
+id : "D02.01.05",
+name: "Голоморфная функция",
+type: "Definition"
+},
+{
+id : "D02.01.06",
+name: "Условия Коши-Римана",
+type: "Definition"
+},
+{
+id : "TX02.01.07",
+name: "Выражения для производной и условия Коши-Римана",
+type: "Text"
+},
+{
+id : "TX02.01.08",
+name: "Дифференцирование в терминах z и z-сопряженного",
+type: "Text"
+},
+{
+id : "PROP02.01.03",
+name: "Условие Коши-Римана через частные производные",
+type: "Property"
+},
+{
+id : "PROP02.01.04",
+name: "Замкнутость дифференциальной формы",
+type: "Property"
+},
+{
+id : "TX02.01.09",
+name: "Свойства системы уравнений Коши-Римана",
+type: "Text"
+},
+{
+id : "D02.01.07",
+name: "Оператор Лапласа",
+type: "Definition"
+},
+{
+id : "D02.01.08",
+name: "Гармоническая функция",
+type: "Definition"
+},
+{
+id : "D02.01.09",
+name: "Сопряженные гармонические функции",
+type: "Definition"
+},
+{
+id : "TX02.01.10",
+name: "Правила дифференцирования голоморфных функций",
+type: "Text"
+},
+{
+id : "T02.01.02",
+name: "Теорема о производной композиции функций",
+type: "Theorem"
+},
+{
+id : "PT02.01.02",
+name: "Доказательство теоремы о производной композиции",
+type: "Proof of theorem"
+},
+{
+id : "D02.01.10",
+name: "Связное множество",
+type: "Definition"
+},
+{
+id : "TX02.01.11",
+name: "Свойства связных множеств",
+type: "Text"
+},
+{
+id : "T02.01.03",
+name: "Связность отрезка прямой",
+type: "Theorem"
+},
+{
+id : "PT02.01.03",
+name: "Доказательство связности отрезка",
+type: "Proof of theorem"
+},
+{
+id : "D02.01.11",
+name: "Область",
+type: "Definition"
+},
+{
+id : "T02.01.04",
+name: "Критерий связности открытого множества",
+type: "Theorem"
+},
+{
+id : "PT02.01.04",
+name: "Доказательство критерия связности",
+type: "Proof of theorem"
+},
+{
+id : "D02.01.12",
+name: "Односвязная область",
+type: "Definition"
+},
+{
+id : "TX02.01.12",
+name: "Свойства односвязных областей",
+type: "Text"
+},
+{
+id : "T02.01.05",
+name: "Теорема о постоянной функции",
+type: "Theorem"
+},
+{
+id : "PT02.01.05",
+name: "Доказательство теоремы о постоянной функции",
+type: "Proof of theorem"
+},
+{
+id : "T02.01.06",
+name: "Теорема об обратной функции",
+type: "Theorem"
+},
+{
+id : "PT02.01.06",
+name: "Доказательство теоремы об обратной функции",
+type: "Proof of theorem"
+},
+{
+id : "D02.01.13",
+name: "Однолистная функция",
+type: "Definition"
+},
+{
+id : "TX02.01.13",
+name: "Свойства однолистных функций",
+type: "Text"
+},
+  
+{
+id : "C03.01",
+name: "Степенные ряды и элементарные функции",
+type: "chapter"
+},
+{
+id : "TX03.01.01",
+name: "Введение в голоморфные функции и ряды",
+type: "text"
+},
+{
+id : "D03.01.01",
+name: "Сходимость последовательности функций в точке",
+type: "definition"
+},
+{
+id : "D03.01.02",
+name: "Сходимость последовательности функций на множестве",
+type: "definition"
+},
+{
+id : "D03.01.03",
+name: "Равномерная сходимость последовательности функций",
+type: "definition"
+},
+{
+id : "PROP03.01.01",
+name: "Свойство равномерной сходимости непрерывных функций",
+type: "property"
+},
+{
+id : "T03.01.01",
+name: "Критерий Коши для равномерной сходимости",
+type: "theorem"
+},
+{
+id : "T03.01.02",
+name: "Признак Вейерштрасса равномерной сходимости",
+type: "theorem"
+},
+{
+id : "D03.01.04",
+name: "Степенной ряд",
+type: "definition"
+},
+{
+id : "TX03.01.02",
+name: "Общий вид степенного ряда",
+type: "text"
+},
+{
+id : "E03.01.01",
+name: "Геометрический ряд",
+type: "example"
+},
+{
+id : "T03.01.03",
+name: "Теорема о радиусе сходимости степенного ряда",
+type: "theorem"
+},
+{
+id : "PT03.01.01",
+name: "Доказательство теоремы о радиусе сходимости",
+type: "proof of theorem"
+},
+{
+id : "R03.01.01",
+name: "Формула Коши-Адамара",
+type: "remark"
+},
+{
+id : "R03.01.02",
+name: "Теорема Абеля",
+type: "remark"
+},
+{
+id : "R03.01.03",
+name: "Бесконечная дифференцируемость суммы степенного ряда",
+type: "remark"
+},
+{
+id : "TX03.01.09",
+name: "Определение экспоненты через степенной ряд",
+type: "text"
+},
+{
+id : "TX03.01.10",
+name: "Свойства экспоненты",
+type: "text"
+},
+{
+id : "T03.01.06",
+name: "Теорема сложения для экспоненты",
+type: "theorem"
+},
+{
+id : "PT03.01.04",
+name: "Доказательство теоремы сложения",
+type: "proof of theorem"
+},
+{
+id : "COR03.01.02",
+name: "Следствие о ненулевых значениях экспоненты",
+type: "consequence"
+},
+{
+id : "PROP03.01.09",
+name: "Свойство модуля экспоненты",
+type: "property"
+},
+{
+id : "TX03.01.11",
+name: "Определение тригонометрических функций",
+type: "text"
+},
+{
+id : "TX03.01.12",
+name: "Ряды для тригонометрических функций",
+type: "text"
+},
+{
+id : "PROP03.01.10",
+name: "Формула Эйлера",
+type: "property"
+},
+{
+id : "PROP03.01.11",
+name: "Основное тригонометрическое тождество",
+type: "property"
+},
+{
+id : "PROP03.01.12",
+name: "Формулы сложения для тригонометрических функций",
+type: "property"
+},
+{
+id : "PROP03.01.13",
+name: "Производные тригонометрических функций",
+type: "property"
+},
+{
+id : "TX03.01.13",
+name: "Гиперболические функции",
+type: "text"
+},
+{
+id : "D03.01.12",
+name: "Период функции",
+type: "definition"
+},
+{
+id : "PROP03.01.14",
+name: "Периоды экспоненты",
+type: "property"
+},
+{
+id : "D03.01.13",
+name: "Логарифм комплексного числа",
+type: "definition"
+},
+{
+id : "TX03.01.14",
+name: "Свойства логарифма",
+type: "text"
+},
+{
+id : "D03.01.14",
+name: "Многозначный логарифм",
+type: "definition"
+},
+{
+id : "PROP03.01.15",
+name: "Свойства значений логарифма",
+type: "property"
+},
+{
+id : "PROP03.01.16",
+name: "Логарифм произведения",
+type: "property"
+},
+{
+id : "PT03.01.05",
+name: "Доказательство свойства логарифма произведения",
+type: "proof of theorem"
+},
+{
+id : "D03.01.15",
+name: "Непрерывная ветвь логарифма",
+type: "definition"
+},
+{
+id : "TX03.01.15",
+name: "Ветвь логарифма в комплексной плоскости",
+type: "text"
+},
+{
+id : "T03.01.07",
+name: "Разложение логарифма в степенной ряд",
+type: "theorem"
+},
+{
+id : "PT03.01.06",
+name: "Доказательство разложения логарифма",
+type: "proof of theorem"
+},
+{
+id : "D03.01.16",
+name: "Комплексная степень",
+type: "definition"
+},
+{
+id : "TX03.01.16",
+name: "Свойства комплексной степени",
+type: "text"
+},
+{
+id : "TX03.01.17",
+name: "Ветвь комплексной степени",
+type: "text"
+},
+  {
+id: "C04",
+name: "Комплексное интегрирование",
+type: "Chapter"
+},
+{
+id: "C04.01",
+name: "Интеграл и его свойства",
+type: "Chapter"
+},
+{
+id: "TX04.01.01",
+name: "Введение в комплексное интегрирование",
+type: "Text"
+},
+{
+id: "TX04.01.02",
+name: "Понятие кривой",
+type: "Text"
+},
+{
+id: "D04.01.01",
+name: "Уравнение кривой в параметрической форме",
+type: "Definition"
+},
+{
+id: "TX04.01.03",
+name: "Свойства образа кривой",
+type: "Text"
+},
+{
+id: "D04.01.02",
+name: "Путь и параметризация кривой",
+type: "Definition"
+},
+{
+id: "D04.01.03",
+name: "Эквивалентные пути",
+type: "Definition"
+},
+{
+id: "TX04.01.04",
+name: "Начало и конец кривой",
+type: "Text"
+},
+{
+id: "D04.01.04",
+name: "Смена ориентации кривой",
+type: "Definition"
+},
+{
+id: "D04.01.05",
+name: "Жорданова кривая",
+type: "Definition"
+},
+{
+id: "D04.01.06",
+name: "Замкнутая кривая",
+type: "Definition"
+},
+{
+id: "D04.01.07",
+name: "Замкнутая жорданова кривая",
+type: "Definition"
+},
+{
+id: "TX04.01.05",
+name: "Свойства замкнутой жордановой кривой",
+type: "Text"
+},
+{
+id: "D04.01.08",
+name: "Гладкая кривая",
+type: "Definition"
+},
+{
+id: "TX04.01.06",
+name: "Касательный вектор к кривой",
+type: "Text"
+},
+{
+id: "D04.01.09",
+name: "Кусочно-гладкая кривая",
+type: "Definition"
+},
+{
+id: "TX04.01.07",
+name: "Применение кусочно-гладких кривых",
+type: "Text"
+},
+{
+id: "D04.01.10",
+name: "Длина кривой",
+type: "Definition"
+},
+{
+id: "D04.01.11",
+name: "Спрямляемая кривая",
+type: "Definition"
+},
+{
+id: "TX04.01.08",
+name: "Интегральные суммы для спрямляемой кривой",
+type: "Text"
+},
+{
+id: "TX04.01.09",
+name: "Запись интегральных сумм",
+type: "Text"
+},
+{
+id: "TX04.01.10",
+name: "Пределы интегральных сумм",
+type: "Text"
+},
+{
+id: "D04.01.12",
+name: "Обозначения интегралов",
+type: "Definition"
+},
+{
+id: "TX04.01.11",
+name: "Вычисление интегралов для кусочно-гладкой кривой",
+type: "Text"
+},
+{
+id: "PROP04.01.01",
+name: "Независимость интеграла от параметризации",
+type: "Property"
+},
+{
+id: "PT04.01.01",
+name: "Доказательство независимости от параметризации",
+type: "Proof of theorem"
+},
+{
+id: "PROP04.01.02",
+name: "Линейность интеграла",
+type: "Property"
+},
+{
+id: "PROP04.01.03",
+name: "Аддитивность интеграла",
+type: "Property"
+},
+{
+id: "TX04.01.12",
+name: "Замечание о линейности и аддитивности",
+type: "Text"
+},
+{
+id: "PROP04.01.04",
+name: "Интеграл при смене ориентации",
+type: "Property"
+},
+{
+id: "PROP04.01.05",
+name: "Неравенство для интеграла",
+type: "Property"
+},
+{
+id: "TX04.01.13",
+name: "Замечание о структуре интегралов в неравенстве",
+type: "Text"
+},
+{
+id: "PROP04.01.06",
+name: "Оценка интеграла через длину кривой",
+type: "Property"
+},
+{
+id: "D04.01.13",
+name: "Первообразная функция",
+type: "Definition"
+},
+{
+id: "TX04.01.14",
+name: "Условия существования первообразной",
+type: "Text"
+},
+{
+id: "T04.01.01",
+name: "Критерий полного дифференциала",
+type: "Theorem"
+},
+{
+id: "PT04.01.02",
+name: "Доказательство критерия полного дифференциала",
+type: "Proof of theorem"
+},
+{
+id: "E04.01.01",
+name: "Пример интеграла от степенной функции",
+type: "Example"
+},
+{
+id: "TX04.01.15",
+name: "Случай n=-1 для кривой вне луча",
+type: "Text"
+},
+{
+id: "E04.01.02",
+name: "Пример интеграла по окружности",
+type: "Example"
+},
+{
+id: "C04.02",
+name: "Теорема Коши для выпуклой области",
+type: "Chapter"
+},
+{
+id: "TX04.02.01",
+name: "Варианты теоремы Коши",
+type: "Text"
+},
+{
+id: "T04.02.01",
+name: "Лемма Гурса",
+type: "Theorem"
+},
+{
+id: "PT04.02.01",
+name: "Доказательство леммы Гурса",
+type: "Proof of theorem"
+},
+{
+id: "T04.02.02",
+name: "Усиление леммы Гурса",
+type: "Theorem"
+},
+{
+id: "PT04.02.02",
+name: "Доказательство усиления леммы Гурса",
+type: "Proof of theorem"
+},
+{
+id: "T04.02.03",
+name: "Теорема Коши для выпуклой области",
+type: "Theorem"
+},
+{
+id: "PT04.02.03",
+name: "Доказательство теоремы Коши для выпуклой области",
+type: "Proof of theorem"
+},
+{
+id: "R04.02.01",
+name: "Замечание о локальной первообразной",
+type: "Remark"
+},
+{
+id: "R04.02.02",
+name: "Замечание об условиях теоремы Коши",
+type: "Remark"
+},
+  
+{
+id: "C05.01.01",
+name: "Интеграл Коши",
+type: "Chapter"
+},
+{
+id: "TX05.01.01",
+name: "Введение в интеграл Коши",
+type: "Text"
+},
+{
+id: "D05.01.01",
+name: "Определение интеграла Коши",
+type: "Definition"
+},
+{
+id: "T05.01.01",
+name: "Свойства интеграла Коши",
+type: "Theorem"
+},
+{
+id: "PT05.01.01",
+name: "Доказательство свойств интеграла Коши",
+type: "Proof of theorem"
+},
+{
+id: "CON05.01.01",
+name: "Следствие о дифференцируемости интеграла Коши",
+type: "Consequence"
+},
+{
+id: "PCON05.01.01",
+name: "Доказательство следствия о дифференцируемости",
+type: "Proof of consequence"
+},
+{
+id: "T05.01.02",
+name: "Интегральная формула Коши для круга",
+type: "Theorem"
+},
+{
+id: "PT05.01.02",
+name: "Доказательство интегральной формулы Коши",
+type: "Proof of theorem"
+},
+{
+id: "T05.01.03",
+name: "Бесконечная дифференцируемость голоморфных функций",
+type: "Theorem"
+},
+{
+id: "PT05.01.03",
+name: "Доказательство бесконечной дифференцируемости",
+type: "Proof of theorem"
+},
+{
+id: "R05.01.01",
+name: "Замечание о интегральной формуле Коши для производных",
+type: "Remark"
+},
+{
+id: "T05.01.04",
+name: "Теорема Мореры",
+type: "Theorem"
+},
+{
+id: "PT05.01.04",
+name: "Доказательство теоремы Мореры",
+type: "Proof of theorem"
+},
+{
+id: "T05.01.05",
+name: "Теорема о среднем",
+type: "Theorem"
+},
+{
+id: "PT05.01.05",
+name: "Доказательство теоремы о среднем",
+type: "Proof of theorem"
+},
+{
+id : "C06.01",
+name: "Ряд Тейлора и теорема единственности",
+type: "Chapter"
+},
+{
+id : "TX06.01.01",
+name: "Определение аналитической функции через степенные ряды",
+type: "Text"
+},
+{
+id : "T06.01.01",
+name: "Теорема о разложении голоморфной функции в ряд Тейлора",
+type: "Theorem"
+},
+{
+id : "PT06.01.01",
+name: "Доказательство теоремы о разложении в ряд Тейлора",
+type: "Proof of theorem"
+},
+{
+id : "R06.01.01",
+name: "Замечание о ряде Тейлора и единственности представления",
+type: "Remark"
+},
+{
+id : "D06.01.01",
+name: "Определение целой функции",
+type: "Definition"
+},
+{
+id : "TX06.01.02",
+name: "Примеры целых функций и их свойства",
+type: "Text"
+},
+{
+id : "T06.01.02",
+name: "Теорема о целых функциях, ограниченных полиномом",
+type: "Theorem"
+},
+{
+id : "CON06.01.01",
+name: "Теорема Лиувилля",
+type: "Consequence"
+},
+{
+id : "PT06.01.02",
+name: "Доказательство теоремы о целых функциях",
+type: "Proof of theorem"
+},
+{
+id : "D06.01.02",
+name: "Определение нуля функции",
+type: "Definition"
+},
+{
+id : "D06.01.03",
+name: "Определение порядка нуля",
+type: "Definition"
+},
+{
+id : "TX06.01.03",
+name: "Свойства нулей голоморфных функций",
+type: "Text"
+},
+{
+id : "T06.01.03",
+name: "Теорема единственности голоморфных функций",
+type: "Theorem"
+},
+{
+id : "PT06.01.03",
+name: "Доказательство теоремы единственности",
+type: "Proof of theorem"
+},
+{
+id : "CON06.01.02",
+name: "Следствие об изолированности нулей",
+type: "Consequence"
+},
+  {
+id : "C07",
+name: "Индекс. Общая форма теоремы Коши и интегральной формулы Коши",
+type: "Chapter"
+},
+{
+id : "TX07.01.01",
+name: "Введение в топологические понятия",
+type: "Text"
+},
+{
+id : "C07.01",
+name: "Приращение аргумента вдоль кривой. Индекс",
+type: "Chapter"
+},
+{
+id : "TX07.01.02",
+name: "Геометрический смысл интеграла",
+type: "Text"
+},
+{
+id : "D07.01.01",
+name: "Приращение аргумента вдоль кривой",
+type: "Definition"
+},
+{
+id : "TX07.01.03",
+name: "Свойства приращения аргумента",
+type: "Text"
+},
+{
+id : "TX07.01.04",
+name: "Приращение аргумента функции",
+type: "Text"
+},
+{
+id : "PROP07.01.01",
+name: "Формула приращения аргумента функции",
+type: "Property"
+},
+{
+id : "PROP07.01.02",
+name: "Инвариантность приращения аргумента",
+type: "Property"
+},
+{
+id : "L07.01.01",
+name: "Лемма о приращении аргумента произведения",
+type: "Lemma"
+},
+{
+id : "PL07.01.01",
+name: "Доказательство леммы о приращении аргумента произведения",
+type: "Proof of lemma"
+},
+{
+id : "PROP07.01.03",
+name: "Свойства приращения аргумента для обратной функции",
+type: "Property"
+},
+{
+id : "D07.01.02",
+name: "Индекс точки относительно кривой",
+type: "Definition"
+},
+{
+id : "PROP07.01.04",
+name: "Геометрический смысл индекса",
+type: "Property"
+},
+{
+id : "PROP07.01.05",
+name: "Свойство индекса для обратной ориентации",
+type: "Property"
+},
+{
+id : "TX07.01.05",
+name: "Индекс для окружности",
+type: "Text"
+},
+{
+id : "TX07.01.06",
+name: "Компоненты связности дополнения",
+type: "Text"
+},
+{
+id : "T07.01.01",
+name: "Теорема о свойствах индекса",
+type: "Theorem"
+},
+{
+id : "PT07.01.01",
+name: "Доказательство теоремы о свойствах индекса",
+type: "Proof of theorem"
+},
+{
+id : "C07.02",
+name: "Общая форма теоремы Коши",
+type: "Chapter"
+},
+{
+id : "TX07.02.01",
+name: "Введение в общую теорему Коши",
+type: "Text"
+},
+{
+id : "L07.02.01",
+name: "Лемма о непрерывности разностного отношения",
+type: "Lemma"
+},
+{
+id : "PL07.02.01",
+name: "Доказательство леммы о непрерывности разностного отношения",
+type: "Proof of lemma"
+},
+{
+id : "D07.02.01",
+name: "Цикл",
+type: "Definition"
+},
+{
+id : "D07.02.02",
+name: "Цикл в области",
+type: "Definition"
+},
+{
+id : "TX07.02.02",
+name: "Интеграл по циклу и индекс",
+type: "Text"
+},
+{
+id : "D07.02.03",
+name: "Гомологичность нулю",
+type: "Definition"
+},
+{
+id : "T07.02.01",
+name: "Общая теорема Коши",
+type: "Theorem"
+},
+{
+id : "PT07.02.01",
+name: "Доказательство общей теоремы Коши",
+type: "Proof of theorem"
+},
+{
+id : "CON07.02.01",
+name: "Теорема Коши для односвязной области",
+type: "Consequence"
+},
+{
+id : "PCON07.02.01",
+name: "Доказательство теоремы Коши для односвязной области",
+type: "Proof of consequence"
+},
+{
+id : "TX07.02.03",
+name: "Ориентация жордановой кривой",
+type: "Text"
+},
+{
+id : "D07.02.04",
+name: "Цикл, ограничивающий область",
+type: "Definition"
+},
+{
+id : "CON07.02.02",
+name: "Теорема Коши для многосвязной области",
+type: "Consequence"
+},
+{
+id : "PCON07.02.02",
+name: "Доказательство теоремы Коши для многосвязной области",
+type: "Proof of consequence"
+},
+{
+id : "CON07.02.03",
+name: "Интегральная формула Коши для многосвязной области",
+type: "Consequence"
+},
+{
+id : "PCON07.02.03",
+name: "Доказательство интегральной формулы Коши для многосвязной области",
+type: "Proof of consequence"
+}
+
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"edges": [
+{
+"source": "TX01.01.02",
+"target": "D01.01.01",
+"type": "Reference"
+},
+{
+"source": "TX01.01.02",
+"target": "D01.01.02",
+"type": "Reference"
+},
+{
+"source": "TX01.01.03",
+"target": "PROP01.01.03",
+"type": "Reference"
+},
+{
+"source": "TX01.01.03",
+"target": "D01.01.03",
+"type": "Reference"
+},
+{
+"source": "PROP01.01.04",
+"target": "D01.01.03",
+"type": "Reference"
+},
+{
+"source": "PROP01.01.05",
+"target": "D01.01.03",
+"type": "Reference"
+},
+{
+"source": "PROP01.01.06",
+"target": "D01.01.03",
+"type": "Reference"
+},
+{
+"source": "PT01.01.01",
+"target": "T01.01.01",
+"type": "Reference"
+},
+{
+"source": "PROP01.01.07",
+"target": "T01.01.01",
+"type": "Reference"
+},
+{
+"source": "TX01.02.01",
+"target": "D01.01.03",
+"type": "Reference"
+},
+{
+"source": "TX01.02.01",
+"target": "T01.01.01",
+"type": "Reference"
+},
+{
+"source": "D01.02.01",
+"target": "TX01.02.01",
+"type": "Reference"
+},
+{
+"source": "TX01.02.02",
+"target": "D01.02.01",
+"type": "Reference"
+},
+{
+"source": "T01.02.01",
+"target": "D01.02.01",
+"type": "Reference"
+},
+{
+"source": "TX01.02.03",
+"target": "T01.02.01",
+"type": "Reference"
+},
+{
+"source": "PROP01.02.01",
+"target": "T01.02.01",
+"type": "Reference"
+},
+{
+"source": "T01.02.02",
+"target": "D01.02.01",
+"type": "Reference"
+},
+{
+"source": "L01.02.01",
+"target": "T01.02.01",
+"type": "Reference"
+},
+{
+"source": "PT01.02.01",
+"target": "T01.02.02",
+"type": "Reference"
+},
+{
+"source": "PT01.02.01",
+"target": "L01.02.01",
+"type": "Reference"
+},
+{
+"source": "TX01.03.01",
+"target": "D01.01.03",
+"type": "Reference"
+},
+{
+"source": "D01.03.01",
+"target": "D01.01.03",
+"type": "Reference"
+},
+{
+"source": "TX01.03.02",
+"target": "D01.03.01",
+"type": "Reference"
+},
+{
+"source": "D01.03.02",
+"target": "D01.03.01",
+"type": "Reference"
+},
+{
+"source": "D01.03.03",
+"target": "D01.03.01",
+"type": "Reference"
+},
+{
+"source": "D01.03.04",
+"target": "D01.03.01",
+"type": "Reference"
+},
+{
+"source": "TX01.03.03",
+"target": "D01.03.04",
+"type": "Reference"
+},
+{
+"source": "T01.03.01",
+"target": "D01.03.04",
+"type": "Reference"
+},
+{
+"source": "TX01.03.04",
+"target": "T01.03.01",
+"type": "Reference"
+},
+{
+"source": "T01.03.02",
+"target": "D01.03.04",
+"type": "Reference"
+},
+{
+"source": "TX01.03.05",
+"target": "T01.03.01",
+"type": "Reference"
+},
+{
+"source": "D01.03.05",
+"target": "D01.01.03",
+"type": "Reference"
+},
+{
+"source": "TX01.03.06",
+"target": "D01.03.05",
+"type": "Reference"
+},
+{
+"source": "D01.03.06",
+"target": "D01.03.05",
+"type": "Reference"
+},
+{
+"source": "D01.03.07",
+"target": "TX01.03.06",
+"type": "Reference"
+},
+{
+"source": "T01.03.03",
+"target": "D01.03.07",
+"type": "Reference"
+},
+{
+"source": "PT01.03.01",
+"target": "T01.03.03",
+"type": "Reference"
+},
+{
+"source": "TX01.03.07",
+"target": "T01.03.03",
+"type": "Reference"
+},
+{
+"source": "D01.03.08",
+"target": "D01.03.07",
+"type": "Reference"
+},
+{
+"source": "T01.03.04",
+"target": "D01.03.08",
+"type": "Reference"
+},
+{
+"source": "PT01.03.02",
+"target": "T01.03.04",
+"type": "Reference"
+},
+{
+"source": "TX01.03.08",
+"target": "T01.03.04",
+"type": "Reference"
+},
+{
+"source": "D01.03.09",
+"target": "D01.03.10",
+"type": "Reference"
+},
+{
+"source": "D01.03.10",
+"target": "D01.03.11",
+"type": "Reference"
+},
+{
+"source": "D01.03.11",
+"target": "D01.03.12",
+"type": "Reference"
+},
+{
+"source": "T01.03.05",
+"target": "D01.03.11",
+"type": "Reference"
+},
+{
+"source": "T01.03.06",
+"target": "D01.03.11",
+"type": "Reference"
+},
+{
+"source": "TX01.03.09",
+"target": "T01.03.06",
+"type": "Reference"
+},
+{
+"source": "T01.03.07",
+"target": "D01.03.11",
+"type": "Reference"
+},
+  
+{
+"source": "T02.01.01",
+"target": "PT02.01.01",
+"type": "Reference"
+},
+{
+"source": "T02.01.02", 
+"target": "PT02.01.02",
+"type": "Reference"
+},
+{
+"source": "T02.01.03",
+"target": "PT02.01.03",
+"type": "Reference"
+},
+{
+"source": "T02.01.04",
+"target": "PT02.01.04",
+"type": "Reference"
+},
+{
+"source": "T02.01.05",
+"target": "PT02.01.05",
+"type": "Reference"
+},
+{
+"source": "T02.01.06",
+"target": "PT02.01.06",
+"type": "Reference"
+},
+{
+"source": "TX02.01.04",
+"target": "PROP02.01.01",
+"type": "Reference"
+},
+{
+"source": "TX02.01.05",
+"target": "PROP02.01.02",
+"type": "Reference"
+},
+{
+"source": "TX02.01.07",
+"target": "D02.01.06",
+"type": "Reference"
+},
+{
+"source": "TX02.01.08",
+"target": "PROP02.01.03",
+"type": "Reference"
+},
+{
+"source": "TX02.01.08",
+"target": "PROP02.01.04",
+"type": "Reference"
+},
+{
+"source": "TX02.01.09",
+"target": "D02.01.07",
+"type": "Reference"
+},
+{
+"source": "TX02.01.09",
+"target": "D02.01.08",
+"type": "Reference"
+},
+{
+"source": "D02.01.08",
+"target": "D02.01.09",
+"type": "Reference"
+},
+{
+"source": "TX02.01.11",
+"target": "D02.01.10",
+"type": "Reference"
+},
+{
+"source": "PT02.01.04",
+"target": "T02.01.03",
+"type": "Reference"
+},
+{
+"source": "TX02.01.12",
+"target": "D02.01.12",
+"type": "Reference"
+},
+{
+"source": "PT02.01.05",
+"target": "T02.01.04",
+"type": "Reference"
+},
+{
+"source": "PT02.01.06",
+"target": "D02.01.13",
+"type": "Reference"
+},
+{
+"source": "TX02.01.13",
+"target": "T02.01.06",
+"type": "Reference"
+},
+  {
+"source": "PT03.01.01",
+"target": "T03.01.02",
+"type": "Reference"
+},
+{
+"source": "PT03.01.01",
+"target": "T03.01.03",
+"type": "Proof"
+},
+{
+"source": "R03.01.01",
+"target": "T03.01.03",
+"type": "Reference"
+},
+{
+"source": "R03.01.02",
+"target": "T03.01.03",
+"type": "Reference"
+},
+{
+"source": "R03.01.03",
+"target": "T03.01.03",
+"type": "Reference"
+},
+{
+"source": "TX03.01.09",
+"target": "T03.01.03",
+"type": "Reference"
+},
+{
+"source": "TX03.01.10",
+"target": "TX03.01.09",
+"type": "Reference"
+},
+{
+"source": "PT03.01.04",
+"target": "T03.01.06",
+"type": "Proof"
+},
+{
+"source": "COR03.01.02",
+"target": "T03.01.06",
+"type": "Reference"
+},
+{
+"source": "PROP03.01.09",
+"target": "T03.01.06",
+"type": "Reference"
+},
+{
+"source": "TX03.01.11",
+"target": "TX03.01.10",
+"type": "Reference"
+},
+{
+"source": "TX03.01.12",
+"target": "TX03.01.11",
+"type": "Reference"
+},
+{
+"source": "PROP03.01.10",
+"target": "TX03.01.11",
+"type": "Reference"
+},
+{
+"source": "PROP03.01.11",
+"target": "PROP03.01.10",
+"type": "Reference"
+},
+{
+"source": "PROP03.01.12",
+"target": "PROP03.01.10",
+"type": "Reference"
+},
+{
+"source": "PROP03.01.13",
+"target": "TX03.01.12",
+"type": "Reference"
+},
+{
+"source": "TX03.01.13",
+"target": "TX03.01.11",
+"type": "Reference"
+},
+{
+"source": "PROP03.01.14",
+"target": "D03.01.12",
+"type": "Reference"
+},
+{
+"source": "TX03.01.14",
+"target": "D03.01.13",
+"type": "Reference"
+},
+{
+"source": "D03.01.14",
+"target": "TX03.01.14",
+"type": "Reference"
+},
+{
+"source": "PROP03.01.15",
+"target": "D03.01.14",
+"type": "Reference"
+},
+{
+"source": "PROP03.01.16",
+"target": "D03.01.14",
+"type": "Reference"
+},
+{
+"source": "PT03.01.05",
+"target": "PROP03.01.16",
+"type": "Proof"
+},
+{
+"source": "D03.01.15",
+"target": "D03.01.14",
+"type": "Reference"
+},
+{
+"source": "TX03.01.15",
+"target": "D03.01.15",
+"type": "Reference"
+},
+{
+"source": "PT03.01.06",
+"target": "T03.01.07",
+"type": "Proof"
+},
+{
+"source": "D03.01.16",
+"target": "D03.01.14",
+"type": "Reference"
+},
+{
+"source": "TX03.01.16",
+"target": "D03.01.16",
+"type": "Reference"
+},
+{
+"source": "TX03.01.17",
+"target": "D03.01.16",
+"type": "Reference"
+},
+  {
+"source": "TX04.01.01",
+"target": "C04.01",
+"type": "Reference"
+},
+{
+"source": "TX04.01.02",
+"target": "D04.01.01",
+"type": "Reference"
+},
+{
+"source": "D04.01.01",
+"target": "TX04.01.03",
+"type": "Reference"
+},
+{
+"source": "TX04.01.03",
+"target": "D04.01.02",
+"type": "Reference"
+},
+{
+"source": "D04.01.02",
+"target": "D04.01.03",
+"type": "Reference"
+},
+{
+"source": "D04.01.03",
+"target": "TX04.01.04",
+"type": "Reference"
+},
+{
+"source": "TX04.01.04",
+"target": "D04.01.04",
+"type": "Reference"
+},
+{
+"source": "D04.01.04",
+"target": "D04.01.05",
+"type": "Reference"
+},
+{
+"source": "D04.01.05",
+"target": "D04.01.06",
+"type": "Reference"
+},
+{
+"source": "D04.01.06",
+"target": "D04.01.07",
+"type": "Reference"
+},
+{
+"source": "D04.01.07",
+"target": "TX04.01.05",
+"type": "Reference"
+},
+{
+"source": "TX04.01.05",
+"target": "D04.01.08",
+"type": "Reference"
+},
+{
+"source": "D04.01.08",
+"target": "TX04.01.06",
+"type": "Reference"
+},
+{
+"source": "TX04.01.06",
+"target": "D04.01.09",
+"type": "Reference"
+},
+{
+"source": "D04.01.09",
+"target": "TX04.01.07",
+"type": "Reference"
+},
+{
+"source": "TX04.01.07",
+"target": "D04.01.10",
+"type": "Reference"
+},
+{
+"source": "D04.01.10",
+"target": "D04.01.11",
+"type": "Reference"
+},
+{
+"source": "D04.01.11",
+"target": "TX04.01.08",
+"type": "Reference"
+},
+{
+"source": "TX04.01.08",
+"target": "TX04.01.09",
+"type": "Reference"
+},
+{
+"source": "TX04.01.09",
+"target": "TX04.01.10",
+"type": "Reference"
+},
+{
+"source": "TX04.01.10",
+"target": "D04.01.12",
+"type": "Reference"
+},
+{
+"source": "D04.01.12",
+"target": "TX04.01.11",
+"type": "Reference"
+},
+{
+"source": "TX04.01.11",
+"target": "PROP04.01.01",
+"type": "Reference"
+},
+{
+"source": "PROP04.01.01",
+"target": "PT04.01.01",
+"type": "Reference"
+},
+{
+"source": "PT04.01.01",
+"target": "PROP04.01.02",
+"type": "Reference"
+},
+{
+"source": "PROP04.01.02",
+"target": "PROP04.01.03",
+"type": "Reference"
+},
+{
+"source": "PROP04.01.03",
+"target": "TX04.01.12",
+"type": "Reference"
+},
+{
+"source": "TX04.01.12",
+"target": "PROP04.01.04",
+"type": "Reference"
+},
+{
+"source": "PROP04.01.04",
+"target": "PROP04.01.05",
+"type": "Reference"
+},
+{
+"source": "PROP04.01.05",
+"target": "TX04.01.13",
+"type": "Reference"
+},
+{
+"source": "TX04.01.13",
+"target": "PROP04.01.06",
+"type": "Reference"
+},
+{
+"source": "PROP04.01.06",
+"target": "D04.01.13",
+"type": "Reference"
+},
+{
+"source": "D04.01.13",
+"target": "TX04.01.14",
+"type": "Reference"
+},
+{
+"source": "TX04.01.14",
+"target": "T04.01.01",
+"type": "Reference"
+},
+{
+"source": "T04.01.01",
+"target": "PT04.01.02",
+"type": "Reference"
+},
+{
+"source": "PT04.01.02",
+"target": "E04.01.01",
+"type": "Reference"
+},
+{
+"source": "E04.01.01",
+"target": "TX04.01.15",
+"type": "Reference"
+},
+{
+"source": "TX04.01.15",
+"target": "E04.01.02",
+"type": "Reference"
+},
+{
+"source": "C04.02",
+"target": "TX04.02.01",
+"type": "Reference"
+},
+{
+"source": "TX04.02.01",
+"target": "T04.02.01",
+"type": "Reference"
+},
+{
+"source": "T04.02.01",
+"target": "PT04.02.01",
+"type": "Reference"
+},
+{
+"source": "PT04.02.01",
+"target": "T04.02.02",
+"type": "Reference"
+},
+{
+"source": "T04.02.02",
+"target": "PT04.02.02",
+"type": "Reference"
+},
+{
+"source": "PT04.02.02",
+"target": "T04.02.03",
+"type": "Reference"
+},
+{
+"source": "T04.02.03",
+"target": "PT04.02.03",
+"type": "Reference"
+},
+{
+"source": "PT04.02.03",
+"target": "R04.02.01",
+"type": "Reference"
+},
+{
+"source": "R04.02.01",
+"target": "R04.02.02",
+"type": "Reference"
+},
+  {
+"source": "PT05.01.03",
+"target": "CON05.01.01",
+"type": "Reference"
+},
+{
+"source": "PT05.01.02",
+"target": "T05.01.01",
+"type": "Reference"
+},
+{
+"source": "PT05.01.04",
+"target": "T05.01.02",
+"type": "Reference"
+},
+ {
+"source": "TX06.01.01",
+"target": "T06.01.01", 
+"type": "Reference"
+},
+{
+"source": "T06.01.01",
+"target": "PT06.01.01",
+"type": "Proof"
+},
+{
+"source": "R06.01.01",
+"target": "T06.01.01",
+"type": "Reference"
+},
+{
+"source": "TX06.01.02",
+"target": "D06.01.01",
+"type": "Reference"
+},
+{
+"source": "TX06.01.02",
+"target": "T06.01.01",
+"type": "Reference"
+},
+{
+"source": "T06.01.02",
+"target": "PT06.01.02",
+"type": "Proof"
+},
+{
+"source": "CON06.01.01",
+"target": "T06.01.02",
+"type": "Reference"
+},
+{
+"source": "PT06.01.02",
+"target": "T06.01.02",
+"type": "Proof"
+},
+{
+"source": "TX06.01.03",
+"target": "D06.01.02",
+"type": "Reference"
+},
+{
+"source": "TX06.01.03",
+"target": "D06.01.03",
+"type": "Reference"
+},
+{
+"source": "TX06.01.03",
+"target": "T06.01.01",
+"type": "Reference"
+},
+{
+"source": "T06.01.03",
+"target": "PT06.01.03",
+"type": "Proof"
+},
+{
+"source": "CON06.01.02",
+"target": "T06.01.03",
+"type": "Reference"
+},
+{
+"source": "PT06.01.03",
+"target": "TX06.01.03",
+"type": "Reference"
+},
+{
+"source": "TX07.01.01",
+"target": "C07.01",
+"type": "Reference"
+},
+{
+"source": "TX07.01.02",
+"target": "D07.01.01",
+"type": "Reference"
+},
+{
+"source": "TX07.01.03",
+"target": "D07.01.01",
+"type": "Reference"
+},
+{
+"source": "TX07.01.04",
+"target": "PROP07.01.01",
+"type": "Reference"
+},
+{
+"source": "PROP07.01.01",
+"target": "TX07.01.04",
+"type": "Reference"
+},
+{
+"source": "PROP07.01.02",
+"target": "PROP07.01.01",
+"type": "Reference"
+},
+{
+"source": "L07.01.01",
+"target": "PROP07.01.01",
+"type": "Reference"
+},
+{
+"source": "PL07.01.01",
+"target": "L07.01.01",
+"type": "Reference"
+},
+{
+"source": "PL07.01.01",
+"target": "PROP07.01.01",
+"type": "Reference"
+},
+{
+"source": "PROP07.01.03",
+"target": "PROP07.01.01",
+"type": "Reference"
+},
+{
+"source": "D07.01.02",
+"target": "TX07.01.03",
+"type": "Reference"
+},
+{
+"source": "PROP07.01.04",
+"target": "D07.01.02",
+"type": "Reference"
+},
+{
+"source": "PROP07.01.05",
+"target": "D07.01.02",
+"type": "Reference"
+},
+{
+"source": "TX07.01.05",
+"target": "D07.01.02",
+"type": "Reference"
+},
+{
+"source": "T07.01.01",
+"target": "D07.01.02",
+"type": "Reference"
+},
+{
+"source": "PT07.01.01",
+"target": "T07.01.01",
+"type": "Reference"
+},
+{
+"source": "TX07.02.01",
+"target": "T07.02.01",
+"type": "Reference"
+},
+{
+"source": "L07.02.01",
+"target": "PT07.02.01",
+"type": "Reference"
+},
+{
+"source": "PL07.02.01",
+"target": "L07.02.01",
+"type": "Reference"
+},
+{
+"source": "TX07.02.02",
+"target": "D07.02.01",
+"type": "Reference"
+},
+{
+"source": "TX07.02.02",
+"target": "D07.01.02",
+"type": "Reference"
+},
+{
+"source": "D07.02.03",
+"target": "TX07.02.02",
+"type": "Reference"
+},
+{
+"source": "T07.02.01",
+"target": "D07.02.03",
+"type": "Reference"
+},
+{
+"source": "PT07.02.01",
+"target": "L07.02.01",
+"type": "Reference"
+},
+{
+"source": "PT07.02.01",
+"target": "D07.02.03",
+"type": "Reference"
+},
+{
+"source": "CON07.02.01",
+"target": "T07.02.01",
+"type": "Reference"
+},
+{
+"source": "PCON07.02.01",
+"target": "CON07.02.01",
+"type": "Reference"
+},
+{
+"source": "PCON07.02.01",
+"target": "T07.02.01",
+"type": "Reference"
+},
+{
+"source": "TX07.02.03",
+"target": "T07.01.01",
+"type": "Reference"
+},
+{
+"source": "D07.02.04",
+"target": "TX07.02.03",
+"type": "Reference"
+},
+{
+"source": "CON07.02.02",
+"target": "T07.02.01",
+"type": "Reference"
+},
+{
+"source": "PCON07.02.02",
+"target": "CON07.02.02",
+"type": "Reference"
+},
+{
+"source": "PCON07.02.02",
+"target": "T07.02.01",
+"type": "Reference"
+},
+{
+"source": "CON07.02.03",
+"target": "T07.02.01",
+"type": "Reference"
+},
+{
+"source": "PCON07.02.03",
+"target": "CON07.02.03",
+"type": "Reference"
+},
+{
+"source": "PCON07.02.03",
+"target": "T07.02.01",
+"type": "Reference"
+}
+]
