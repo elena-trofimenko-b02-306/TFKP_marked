@@ -2351,7 +2351,7 @@ type: "Proof of theorem"
   {
     "id": "PT13.08.01",
     "name": "Доказательство теоремы о конформных отображениях",
-    "type": "ProofOfTheorem"
+    "type": "Proof of theorem"
   },
   {
     "id": "TX13.08.02",
@@ -2371,7 +2371,7 @@ type: "Proof of theorem"
   {
     "id": "PT13.09.01",
     "name": "Доказательство теоремы Римана",
-    "type": "ProofOfTheorem"
+    "type": "Proof of theorem"
   },
   {
     "id": "TX13.10.01",
@@ -2386,6 +2386,811 @@ type: "Proof of theorem"
   {
     "id": "TX13.10.02",
     "name": "Следствие теоремы Римана",
+    "type": "Text"
+  },
+    {
+"id": "C14",
+"name": "Аналитическое продолжение",
+"type": "Chapter"
+},
+{
+"id": "TX14.01.02",
+"name": "Введение в аналитическое продолжение",
+"type": "Text"
+},
+{
+"id": "TX14.01.03",
+"name": "Расширение понятия функции",
+"type": "Text"
+},
+{
+"id": "TX14.02.01",
+"name": "Степенные ряды",
+"type": "Text"
+},
+{
+"id": "TX14.02.02",
+"name": "Метод Вейерштрасса аналитического продолжения",
+"type": "Text"
+},
+{
+"id": "TX14.02.03",
+"name": "Сходимость степенных рядов на границе",
+"type": "Text"
+},
+{
+"id": "E14.02.01",
+"name": "Примеры сходимости и расходимости на границе",
+"type": "Example"
+},
+{
+"id": "D14.02.01",
+"name": "Регулярные и особые точки степенного ряда",
+"type": "Definition"
+},
+{
+"id": "TX14.02.04",
+"name": "Теорема Коши-Адамара",
+"type": "Text"
+},
+{
+"id": "T14.02.01",
+"name": "Теорема о существовании особых точек",
+"type": "Theorem"
+},
+{
+"id": "PT14.02.01",
+"name": "Доказательство теоремы о существовании особых точек",
+"type": "Proof of theorem"
+},
+{
+"id": "D14.02.02",
+"name": "Естественная граница",
+"type": "Definition"
+},
+{
+"id": "E14.02.02",
+"name": "Примеры рядов с естественной границей",
+"type": "Example"
+},
+{
+"id": "TX14.03.01",
+"name": "Аналитическое продолжение вдоль пути",
+"type": "Text"
+},
+{
+"id": "TX14.03.02",
+"name": "Терминология аналитического продолжения",
+"type": "Text"
+},
+{
+"id": "D14.03.01",
+"name": "Функциональный элемент",
+"type": "Definition"
+},
+{
+"id": "TX14.03.03",
+"name": "Непосредственное аналитическое продолжение",
+"type": "Text"
+},
+{
+"id": "TX14.03.04",
+"name": "Аналитическое продолжение вдоль цепочки",
+"type": "Text"
+},
+{
+"id": "TX14.03.05",
+"name": "Пример неоднозначности продолжения",
+"type": "Text"
+},
+{
+"id": "TX14.03.06",
+"name": "Условие однозначности продолжения",
+"type": "Text"
+},
+{
+"id": "TX14.03.07",
+"name": "Параметризация путей",
+"type": "Text"
+},
+{
+"id": "D14.03.02",
+"name": "Аналитическое продолжение вдоль пути",
+"type": "Definition"
+},
+{
+"id": "T14.03.01",
+"name": "Теорема единственности аналитического продолжения",
+"type": "Theorem"
+},
+{
+"id": "PT14.03.01",
+"name": "Доказательство теоремы единственности",
+"type": "Proof of theorem"
+},
+{
+"id": "TX14.03.08",
+"name": "Обозначение продолжения вдоль пути",
+"type": "Text"
+},
+{
+"id": "D14.03.03",
+"name": "Гомотопия путей",
+"type": "Definition"
+},
+{
+"id": "TX14.03.09",
+"name": "Геометрический смысл гомотопии",
+"type": "Text"
+},
+{
+"id": "T14.03.02",
+"name": "Теорема о гомотопии в односвязной области",
+"type": "Theorem"
+},
+{
+"id": "PT14.03.02",
+"name": "Доказательство теоремы о гомотопии",
+"type": "Proof of theorem"
+},
+{
+"id": "T14.03.03",
+"name": "Теорема о независимости продолжения от гомотопии",
+"type": "Theorem"
+},
+{
+"id": "PT14.03.03",
+"name": "Доказательство теоремы о независимости от гомотопии",
+"type": "Proof of theorem"
+},
+{
+"id": "TX14.03.10",
+"name": "Полная аналитическая функция",
+"type": "Text"
+},
+{
+"id": "TX14.03.11",
+"name": "Ветви аналитических функций",
+"type": "Text"
+},
+{
+"id": "T14.03.04",
+"name": "Теорема о монодромии",
+"type": "Theorem"
+},
+{
+"id": "PT14.03.04",
+"name": "Доказательство теоремы о монодромии",
+"type": "Proof of theorem"
+},
+{
+"id": "R14.03.01",
+"name": "Замечание о теореме монодромии",
+"type": "Remark"
+},
+{
+"id": "TX14.03.12",
+"name": "Особые точки полных аналитических функций",
+"type": "Text"
+},
+{
+"id": "TX14.04.01",
+"name": "Принцип симметрии Римана-Шварца",
+"type": "Text"
+},
+{
+"id": "TX14.04.02",
+"name": "Теорема о стирании разреза",
+"type": "Text"
+},
+{
+"id": "L14.04.01",
+"name": "Лемма о стирании разреза",
+"type": "Lemma"
+},
+{
+"id": "PL14.04.01",
+"name": "Доказательство леммы о стирании разреза",
+"type": "Proof of lemma"
+},
+{
+"id": "TX14.04.03",
+"name": "Принцип симметрии",
+"type": "Text"
+},
+{
+"id": "T14.04.01",
+"name": "Принцип симметрии Римана-Шварца",
+"type": "Theorem"
+},
+{
+"id": "PT14.04.01",
+"name": "Доказательство принципа симметрии",
+"type": "Proof of theorem"
+},
+{
+"id": "TX14.04.04",
+"name": "Обобщение принципа симметрии",
+"type": "Text"
+},
+    {
+id : "C15",
+name: "Мероморфные функции",
+type: "Chapter"
+},
+{
+id : "TX15.01.01",
+name: "Введение в мероморфные функции",
+type: "Text"
+},
+{
+id : "D15.01.01",
+name: "Определение мероморфной функции",
+type: "Definition"
+},
+{
+id : "TX15.01.02",
+name: "Подклассы мероморфных функций",
+type: "Text"
+},
+{
+id : "TX15.01.03",
+name: "Свойства рациональных функций",
+type: "Text"
+},
+{
+id : "TX15.01.04",
+name: "Нули и полюсы рациональных функций",
+type: "Text"
+},
+{
+id : "TX15.02.01",
+name: "Теорема Миттаг-Леффлера",
+type: "Text"
+},
+{
+id : "TX15.02.02",
+name: "Свойства мероморфных функций",
+type: "Text"
+},
+{
+id : "TX15.02.03",
+name: "Построение мероморфных функций с конечными полюсами",
+type: "Text"
+},
+{
+id : "TX15.02.04",
+name: "Проблема бесконечных полюсов",
+type: "Text"
+},
+{
+id : "D15.02.01",
+name: "Определение локально равномерной сходимости рядов",
+type: "Definition"
+},
+{
+id : "T15.02.01",
+name: "Теорема Миттаг-Леффлера",
+type: "Theorem"
+},
+{
+id : "PT15.02.01",
+name: "Доказательство теоремы Миттаг-Леффлера",
+type: "Proof of theorem"
+},
+{
+id : "E15.02.01",
+name: "Пример с функцией π²/sin²πz",
+type: "Example"
+},
+{
+id : "E15.02.02",
+name: "Пример с мероморфной функцией с простыми полюсами",
+type: "Example"
+},
+{
+id : "TX15.02.05",
+name: "Теорема Пикара для мероморфных функций",
+type: "Text"
+},
+{
+id : "TX15.03.01",
+name: "Бесконечные произведения",
+type: "Text"
+},
+{
+id : "TX15.03.02",
+name: "Целые функции и их представление",
+type: "Text"
+},
+{
+id : "D15.03.01",
+name: "Определение сходимости бесконечного произведения",
+type: "Definition"
+},
+{
+id : "PROPOS15.03.01",
+name: "Свойство абсолютной сходимости произведения",
+type: "Property"
+},
+{
+id : "PPROPOS15.03.01",
+name: "Доказательство свойства абсолютной сходимости",
+type: "Proof of property"
+},
+{
+id : "PROPOS15.03.02",
+name: "Свойство равномерной сходимости произведений",
+type: "Property"
+},
+{
+id : "PPROPOS15.03.02",
+name: "Доказательство равномерной сходимости произведений",
+type: "Proof of property"
+},
+{
+id : "PROPOS15.03.03",
+name: "Свойство сходимости произведения с экспоненциальными множителями",
+type: "Property"
+},
+{
+id : "PPROPOS15.03.03",
+name: "Доказательство сходимости произведения с экспоненциальными множителями",
+type: "Proof of property"
+},
+{
+id : "E15.03.01",
+name: "Пример разложения sinπz в бесконечное произведение",
+type: "Example"
+},
+{
+id : "PE15.03.01",
+name: "Доказательство разложения sinπz",
+type: "Proof of example"
+},
+    {
+"id": "TX15.04.01",
+"name": "Гамма-функция",
+"type": "Text"
+},
+{
+"id": "TX15.04.02", 
+"name": "Определение гамма-функции через факториал",
+"type": "Text"
+},
+{
+"id": "TX15.04.03",
+"name": "Представление Эйлера для гамма-функции",
+"type": "Text"
+},
+{
+"id": "TX15.04.04",
+"name": "Корректность определения гамма-функции",
+"type": "Text"
+},
+{
+"id": "TX15.04.05",
+"name": "Интегральное представление гамма-функции",
+"type": "Text"
+},
+{
+"id": "T15.04.01",
+"name": "Равенство гамма-функции и интегрального представления",
+"type": "Theorem"
+},
+{
+"id": "PT15.04.01",
+"name": "Доказательство равенства гамма-функции и интеграла",
+"type": "Proof of theorem"
+},
+{
+"id": "TX15.04.06",
+"name": "Соотношения с гамма-функцией",
+"type": "Text"
+},
+{
+"id": "R15.04.01",
+"name": "Интеграл от экспоненты в степени альфа",
+"type": "Remark"
+},
+{
+"id": "E15.04.01",
+"name": "Вычисление интеграла Френеля",
+"type": "Example"
+},
+     {
+    "id": "C16",
+    "name": "Гармонические функции и задача Дирихле",
+    "type": "Chapter"
+  },
+  {
+    "id": "TX16.01.01",
+    "name": "Определение гармонических функций",
+    "type": "Text"
+  },
+  {
+    "id": "T16.01.01",
+    "name": "Теорема о представлении гармонической функции",
+    "type": "Theorem"
+  },
+  {
+    "id": "PT16.01.01",
+    "name": "Доказательство теоремы о представлении",
+    "type": "ProofOfTheorem"
+  },
+  {
+    "id": "CON16.01.01",
+    "name": "Следствие о бесконечной дифференцируемости",
+    "type": "Consequence"
+  },
+  {
+    "id": "PCON16.01.01",
+    "name": "Доказательство следствия",
+    "type": "Proof of consequence"
+  },
+  {
+    "id": "TX16.01.02",
+    "name": "Сравнение с одномерным случаем",
+    "type": "Text"
+  },
+  {
+    "id": "T16.01.02",
+    "name": "Принцип экстремума для гармонических функций",
+    "type": "Theorem"
+  },
+  {
+    "id": "PT16.01.02",
+    "name": "Доказательство принципа экстремума",
+    "type": "Proof of theorem"
+  },
+  {
+    "id": "T16.01.03",
+    "name": "Теорема единственности для гармонических функций",
+    "type": "Theorem"
+  },
+  {
+    "id": "PT16.01.03",
+    "name": "Доказательство теоремы единственности",
+    "type": "Proof of theorem"
+  },
+  {
+    "id": "R16.01.01",
+    "name": "Замечание о внутренней теореме единственности",
+    "type": "Remark"
+  },
+  {
+    "id": "R16.01.02",
+    "name": "Замечание о задаче Дирихле",
+    "type": "Remark"
+  },
+  {
+    "id": "E16.01.01",
+    "name": "Пример гармонической функции в единичном круге",
+    "type": "Example"
+  },
+  {
+    "id": "TX16.01.03",
+    "name": "Редукция задачи Дирихле",
+    "type": "Text"
+  },
+  {
+    "id": "T16.01.04",
+    "name": "Теорема о конформной инвариантности",
+    "type": "Theorem"
+  },
+  {
+    "id": "PT16.01.04",
+    "name": "Доказательство конформной инвариантности",
+    "type": "Proof of theorem"
+  },
+  {
+    "id": "TX16.01.04",
+    "name": "Применение конформной инвариантности",
+    "type": "Text"
+  },
+  {
+    "id": "T16.01.05",
+    "name": "Теорема о среднем значении",
+    "type": "Theorem"
+  },
+  {
+    "id": "PT16.01.05",
+    "name": "Доказательство теоремы о среднем",
+    "type": "Proof of theorem"
+  },
+  {
+    "id": "T16.01.06",
+    "name": "Формула Пуассона",
+    "type": "Theorem"
+  },
+  {
+    "id": "PT16.01.06",
+    "name": "Доказательство формулы Пуассона",
+    "type": "Proof of theorem"
+  },
+      {
+    "id": "TX16.02.01",
+    "name": "Интеграл Пуассона",
+    "type": "Text"
+  },
+  {
+    "id": "TX16.02.02",
+    "name": "Определение интеграла Пуассона и Шварца",
+    "type": "Text"
+  },
+  {
+    "id": "T16.02.01",
+    "name": "Теорема о свойствах интеграла Шварца",
+    "type": "Theorem"
+  },
+  {
+    "id": "PT16.02.01",
+    "name": "Доказательство теоремы о свойствах интеграла Шварца",
+    "type": "Proof of theorem"
+  },
+  {
+    "id": "CON16.02.01",
+    "name": "Следствие о свойствах интеграла Пуассона",
+    "type": "Consequence"
+  },
+  {
+    "id": "TX16.02.03",
+    "name": "Свойства интеграла Пуассона",
+    "type": "Text"
+  },
+  {
+    "id": "PT16.02.02",
+    "name": "Доказательство свойств интеграла Пуассона",
+    "type": "Proof of theorem"
+  },
+  {
+    "id": "T16.02.02",
+    "name": "Теорема о предельных значениях интеграла Пуассона",
+    "type": "Theorem"
+  },
+  {
+    "id": "PT16.02.03",
+    "name": "Доказательство теоремы о предельных значениях",
+    "type": "Proof of theorem"
+  },
+     {
+    "id": "TX16.03.01",
+    "name": "Задача Дирихле для кусочно-непрерывных граничных условий",
+    "type": "Text"
+  },
+  {
+    "id": "TX16.03.02",
+    "name": "Постановка задачи Дирихле с разрывами первого рода",
+    "type": "Text"
+  },
+  {
+    "id": "T16.03.01",
+    "name": "Решение задачи Дирихле интегралом Пуассона",
+    "type": "Theorem"
+  },
+  {
+    "id": "PT16.03.01",
+    "name": "Доказательство единственности решения задачи Дирихле",
+    "type": "Proof of theorem"
+  },
+  {
+    "id": "TX16.03.03",
+    "name": "Обобщение на области с жордановыми границами",
+    "type": "Text"
+  },
+    {
+"id": "C17",
+"name": "Асимптотические методы. Функция Эйри",
+"type": "Chapter"
+},
+{
+"id": "TX17.01.01",
+"name": "Введение в специальные функции и асимптотические методы",
+"type": "Text"
+},
+{
+"id": "TX17.01.02",
+"name": "История и представление функции Эйри",
+"type": "Text"
+},
+{
+"id": "TX17.01.03",
+"name": "Проблемы интегрального представления функции Эйри",
+"type": "Text"
+},
+{
+"id": "TX17.01.04",
+"name": "Асимптотические обозначения",
+"type": "Text"
+},
+{
+"id": "TX17.02.01",
+"name": "Метод Лапласа",
+"type": "Text"
+},
+{
+"id": "TX17.02.02",
+"name": "Интегралы Лапласа",
+"type": "Text"
+},
+{
+"id": "TX17.02.03",
+"name": "Условия гладкости для метода Лапласа",
+"type": "Text"
+},
+{
+"id": "TX17.02.04",
+"name": "Основная идея метода Лапласа",
+"type": "Text"
+},
+{
+"id": "L17.02.01",
+"name": "Лемма об асимптотике интеграла с экспонентой",
+"type": "Lemma"
+},
+{
+"id": "PL17.02.01",
+"name": "Доказательство леммы об асимптотике интеграла",
+"type": "Proof of lemma"
+},
+{
+"id": "TX17.02.05",
+"name": "Условие максимума фазовой функции",
+"type": "Text"
+},
+    {
+id : "T17.02.01",
+name: "Теорема о методе перевала",
+type: "Theorem"
+},
+{
+id : "PT17.02.01",
+name: "Доказательство теоремы о методе перевала",
+type: "Proof of theorem"
+},
+{
+id : "R17.02.01",
+name: "Замечание о точке максимума на границе",
+type: "Remark"
+},
+{
+id : "E17.02.01",
+name: "Асимптотика гамма-функции и формула Стирлинга",
+type: "Example"
+},
+    {
+"id": "TX17.03.01",
+"name": "Метод стационарной фазы",
+"type": "Text"
+},
+{
+"id": "TX17.03.02",
+"name": "Интегралы Фурье и их асимптотика",
+"type": "Text"
+},
+{
+"id": "TX17.03.03",
+"name": "Роль стационарных точек в асимптотике",
+"type": "Text"
+},
+{
+"id": "D17.03.01",
+"name": "Невырожденная стационарная точка",
+"type": "Definition"
+},
+{
+"id": "L17.03.01",
+"name": "Асимптотика интеграла с особенностью",
+"type": "Lemma"
+},
+{
+"id": "PL17.03.01",
+"name": "Доказательство асимптотики интеграла с особенностью",
+"type": "Proof of lemma"
+},
+{
+"id": "T17.03.01",
+"name": "Асимптотика интеграла Фурье с одной стационарной точкой",
+"type": "Theorem"
+},
+{
+"id": "PT17.03.01",
+"name": "Доказательство асимптотики интеграла Фурье",
+"type": "Proof of theorem"
+},
+{
+"id": "R17.03.01",
+"name": "Случай отрицательной второй производной",
+"type": "Remark"
+},
+{
+"id": "E17.03.01",
+"name": "Асимптотика функции Эйри при x → -∞",
+"type": "Example"
+},
+    {
+    "id": "TX17.04.01",
+    "name": "Метод перевала",
+    "type": "Text"
+  },
+  {
+    "id": "TX17.04.02",
+    "name": "Определение интеграла метода перевала",
+    "type": "Text"
+  },
+  {
+    "id": "TX17.04.03",
+    "name": "Основная идея метода перевала",
+    "type": "Text"
+  },
+  {
+    "id": "TX17.04.04",
+    "name": "Анализ фазовой функции в окрестности критической точки",
+    "type": "Text"
+  },
+  {
+    "id": "TX17.04.05",
+    "name": "Сведение метода перевала к простой формуле",
+    "type": "Text"
+  },
+  {
+    "id": "T17.04.01",
+    "name": "Теорема об асимптотике интеграла метода перевала",
+    "type": "Theorem"
+  },
+  {
+    "id": "PT17.04.01",
+    "name": "Доказательство теоремы об асимптотике",
+    "type": "ProofOfTheorem"
+  },
+  {
+    "id": "R17.04.01",
+    "name": "Замечание о фазовом множителе",
+    "type": "Remark"
+  },
+      {
+    "id": "TX17.05.01",
+    "name": "Уравнение Эйри в комплексной плоскости",
+    "type": "Text"
+  },
+  {
+    "id": "TX17.05.02",
+    "name": "Решение уравнения Эйри в комплексной плоскости",
+    "type": "Text"
+  },
+  {
+    "id": "TX17.05.03",
+    "name": "Интегральное представление функции Эйри",
+    "type": "Text"
+  },
+  {
+    "id": "TX17.05.04",
+    "name": "Асимптотическое поведение функции Эйри",
+    "type": "Text"
+  },
+  {
+    "id": "T17.05.01",
+    "name": "Асимптотические формулы для функции Эйри",
+    "type": "Theorem"
+  },
+      {
+    "id": "TX17.06.01",
+    "name": "Явление Стокса",
+    "type": "Text"
+  },
+  {
+    "id": "TX17.06.02",
+    "name": "Асимптотические представления функции Эйри",
+    "type": "Text"
+  },
+  {
+    "id": "E17.06.01",
+    "name": "Пример явления Стокса для уравнения второго порядка",
+    "type": "Example"
+  },
+  {
+    "id": "TX17.06.03",
+    "name": "Анализ явления Стокса для функции Эйри",
     "type": "Text"
   }
     
@@ -4082,6 +4887,711 @@ type: "Proof of theorem"
   {
     "source": "PT13.08.01",
     "target": "T13.09.01",
+    "type": "Reference"
+  },
+  {
+"source": "TX14.02.03",
+"target": "E14.02.01",
+"type": "Reference"
+},
+{
+"source": "D14.02.01",
+"target": "T14.02.01",
+"type": "Reference"
+},
+{
+"source": "PT14.02.01",
+"target": "T14.02.01",
+"type": "Proof"
+},
+{
+"source": "D14.02.02",
+"target": "E14.02.02",
+"type": "Reference"
+},
+{
+"source": "TX14.03.03",
+"target": "D14.03.01",
+"type": "Reference"
+},
+{
+"source": "TX14.03.04",
+"target": "D14.03.01",
+"type": "Reference"
+},
+{
+"source": "TX14.03.05",
+"target": "TX14.03.04",
+"type": "Reference"
+},
+{
+"source": "TX14.03.06",
+"target": "TX14.03.04",
+"type": "Reference"
+},
+{
+"source": "D14.03.02",
+"target": "T14.03.01",
+"type": "Reference"
+},
+{
+"source": "PT14.03.01",
+"target": "T14.03.01",
+"type": "Proof"
+},
+{
+"source": "TX14.03.08",
+"target": "T14.03.01",
+"type": "Reference"
+},
+{
+"source": "D14.03.03",
+"target": "T14.03.02",
+"type": "Reference"
+},
+{
+"source": "PT14.03.02",
+"target": "T14.03.02",
+"type": "Proof"
+},
+{
+"source": "T14.03.03",
+"target": "D14.03.03",
+"type": "Reference"
+},
+{
+"source": "PT14.03.03",
+"target": "T14.03.03",
+"type": "Proof"
+},
+{
+"source": "TX14.03.10",
+"target": "T14.03.01",
+"type": "Reference"
+},
+{
+"source": "TX14.03.11",
+"target": "TX14.03.10",
+"type": "Reference"
+},
+{
+"source": "T14.03.04",
+"target": "T14.03.03",
+"type": "Reference"
+},
+{
+"source": "PT14.03.04",
+"target": "T14.03.04",
+"type": "Proof"
+},
+{
+"source": "R14.03.01",
+"target": "T14.03.04",
+"type": "Reference"
+},
+{
+"source": "TX14.04.02",
+"target": "L14.04.01",
+"type": "Reference"
+},
+{
+"source": "PL14.04.01",
+"target": "L14.04.01",
+"type": "Proof"
+},
+{
+"source": "TX14.04.03",
+"target": "T14.04.01",
+"type": "Reference"
+},
+{
+"source": "PT14.04.01",
+"target": "T14.04.01",
+"type": "Proof"
+},
+{
+"source": "PT14.04.01",
+"target": "L14.04.01",
+"type": "Reference"
+},
+{
+"source": "TX14.04.04",
+"target": "T14.04.01",
+"type": "Reference"
+},
+  {
+"source": "TX15.01.01",
+"target": "C15",
+"type": "Reference"
+},
+{
+"source": "D15.01.01",
+"target": "TX15.01.01",
+"type": "Reference"
+},
+{
+"source": "TX15.01.02",
+"target": "D15.01.01",
+"type": "Reference"
+},
+{
+"source": "TX15.01.03",
+"target": "TX15.01.02",
+"type": "Reference"
+},
+{
+"source": "TX15.01.04",
+"target": "TX15.01.03",
+"type": "Reference"
+},
+{
+"source": "TX15.02.01",
+"target": "C15",
+"type": "Reference"
+},
+{
+"source": "TX15.02.02",
+"target": "D15.01.01",
+"type": "Reference"
+},
+{
+"source": "TX15.02.03",
+"target": "TX15.02.02",
+"type": "Reference"
+},
+{
+"source": "TX15.02.04",
+"target": "TX15.02.03",
+"type": "Reference"
+},
+{
+"source": "D15.02.01",
+"target": "TX15.02.04",
+"type": "Reference"
+},
+{
+"source": "T15.02.01",
+"target": "TX15.02.01",
+"type": "Reference"
+},
+{
+"source": "PT15.02.01",
+"target": "T15.02.01",
+"type": "Proof"
+},
+{
+"source": "PT15.02.01",
+"target": "D15.02.01",
+"type": "Reference"
+},
+{
+"source": "E15.02.01",
+"target": "T15.02.01",
+"type": "Reference"
+},
+{
+"source": "E15.02.02",
+"target": "T15.02.01",
+"type": "Reference"
+},
+{
+"source": "E15.02.02",
+"target": "T12.01.01",
+"type": "Reference"
+},
+{
+"source": "TX15.02.05",
+"target": "D15.01.01",
+"type": "Reference"
+},
+{
+"source": "TX15.03.01",
+"target": "C15",
+"type": "Reference"
+},
+{
+"source": "TX15.03.02",
+"target": "D15.01.01",
+"type": "Reference"
+},
+{
+"source": "D15.03.01",
+"target": "TX15.03.02",
+"type": "Reference"
+},
+{
+"source": "PROPOS15.03.01",
+"target": "D15.03.01",
+"type": "Reference"
+},
+{
+"source": "PPROPOS15.03.01",
+"target": "PROPOS15.03.01",
+"type": "Proof"
+},
+{
+"source": "PROPOS15.03.02",
+"target": "PROPOS15.03.01",
+"type": "Reference"
+},
+{
+"source": "PROPOS15.03.02",
+"target": "T12.01.01",
+"type": "Reference"
+},
+{
+"source": "PPROPOS15.03.02",
+"target": "PROPOS15.03.02",
+"type": "Proof"
+},
+{
+"source": "PROPOS15.03.03",
+"target": "PROPOS15.03.02",
+"type": "Reference"
+},
+{
+"source": "PPROPOS15.03.03",
+"target": "PROPOS15.03.03",
+"type": "Proof"
+},
+{
+"source": "E15.03.01",
+"target": "PROPOS15.03.03",
+"type": "Reference"
+},
+{
+"source": "PE15.03.01",
+"target": "E15.03.01",
+"type": "Proof"
+},
+{
+"source": "PE15.03.01",
+"target": "PROPOS15.03.02",
+"type": "Reference"
+},
+{
+"source": "PE15.03.01",
+"target": "E15.02.02",
+"type": "Reference"
+},
+  {
+"source": "TX15.04.04",
+"target": "TX15.04.03",
+"type": "Reference"
+},
+{
+"source": "TX15.04.05", 
+"target": "T15.04.01",
+"type": "Reference"
+},
+{
+"source": "T15.04.01",
+"target": "PT15.04.01",
+"type": "Reference"
+},
+{
+"source": "PT15.04.01",
+"target": "TX15.04.03",
+"type": "Reference"
+},
+{
+"source": "PT15.04.01",
+"target": "TX15.04.05",
+"type": "Reference"
+},
+{
+"source": "TX15.04.06",
+"target": "TX15.04.04",
+"type": "Reference"
+},
+{
+"source": "R15.04.01",
+"target": "TX15.04.06",
+"type": "Reference"
+},
+{
+"source": "E15.04.01",
+"target": "R15.04.01",
+"type": "Reference"
+},
+    {
+    "source": "C16",
+    "target": "TX16.01.01",
+    "type": "Reference"
+  },
+  {
+    "source": "TX16.01.01",
+    "target": "T16.01.01",
+    "type": "Reference"
+  },
+  {
+    "source": "T16.01.01",
+    "target": "PT16.01.01",
+    "type": "Reference"
+  },
+  {
+    "source": "PT16.01.01",
+    "target": "CON16.01.01",
+    "type": "Reference"
+  },
+  {
+    "source": "CON16.01.01",
+    "target": "PCON16.01.01",
+    "type": "Reference"
+  },
+  {
+    "source": "TX16.01.01",
+    "target": "TX16.01.02",
+    "type": "Reference"
+  },
+  {
+    "source": "TX16.01.02",
+    "target": "T16.01.02",
+    "type": "Reference"
+  },
+  {
+    "source": "T16.01.02",
+    "target": "PT16.01.02",
+    "type": "Reference"
+  },
+  {
+    "source": "PT16.01.02",
+    "target": "T16.01.03",
+    "type": "Reference"
+  },
+  {
+    "source": "T16.01.03",
+    "target": "PT16.01.03",
+    "type": "Reference"
+  },
+  {
+    "source": "PT16.01.03",
+    "target": "R16.01.01",
+    "type": "Reference"
+  },
+  {
+    "source": "R16.01.01",
+    "target": "R16.01.02",
+    "type": "Reference"
+  },
+  {
+    "source": "R16.01.02",
+    "target": "E16.01.01",
+    "type": "Reference"
+  },
+  {
+    "source": "E16.01.01",
+    "target": "TX16.01.03",
+    "type": "Reference"
+  },
+  {
+    "source": "TX16.01.03",
+    "target": "T16.01.04",
+    "type": "Reference"
+  },
+  {
+    "source": "T16.01.04",
+    "target": "PT16.01.04",
+    "type": "Reference"
+  },
+  {
+    "source": "PT16.01.04",
+    "target": "TX16.01.04",
+    "type": "Reference"
+  },
+  {
+    "source": "TX16.01.04",
+    "target": "T16.01.05",
+    "type": "Reference"
+  },
+  {
+    "source": "T16.01.05",
+    "target": "PT16.01.05",
+    "type": "Reference"
+  },
+  {
+    "source": "PT16.01.05",
+    "target": "T16.01.06",
+    "type": "Reference"
+  },
+  {
+    "source": "T16.01.06",
+    "target": "PT16.01.06",
+    "type": "Reference"
+  },
+  {
+    "source": "PT16.01.02",
+    "target": "T16.01.01",
+    "type": "Reference"
+  },
+  {
+    "source": "PT16.01.06",
+    "target": "T16.01.04",
+    "type": "Reference"
+  },
+  {
+    "source": "PT16.01.06",
+    "target": "T16.01.05",
+    "type": "Reference"
+  },
+   {
+    "source": "TX16.02.01",
+    "target": "TX16.02.02",
+    "type": "Reference"
+  },
+  {
+    "source": "TX16.02.02",
+    "target": "T16.02.01",
+    "type": "Reference"
+  },
+  {
+    "source": "T16.02.01",
+    "target": "PT16.02.01",
+    "type": "Reference"
+  },
+  {
+    "source": "PT16.02.01",
+    "target": "CON16.02.01",
+    "type": "Reference"
+  },
+  {
+    "source": "TX16.02.02",
+    "target": "TX16.02.03",
+    "type": "Reference"
+  },
+  {
+    "source": "TX16.02.03",
+    "target": "PT16.02.02",
+    "type": "Reference"
+  },
+  {
+    "source": "TX16.02.03",
+    "target": "T16.02.02",
+    "type": "Reference"
+  },
+  {
+    "source": "T16.02.02",
+    "target": "PT16.02.03",
+    "type": "Reference"
+  },
+  {
+    "source": "PT16.02.02",
+    "target": "T16.02.02",
+    "type": "Reference"
+  },
+  {
+    "source": "CON16.02.01",
+    "target": "TX16.02.03",
+    "type": "Reference"
+  },
+    {
+    "source": "TX16.03.01",
+    "target": "TX16.03.02",
+    "type": "Reference"
+  },
+  {
+    "source": "TX16.03.02",
+    "target": "T16.03.01",
+    "type": "Reference"
+  },
+  {
+    "source": "T16.03.01",
+    "target": "PT16.03.01",
+    "type": "Reference"
+  },
+  {
+    "source": "PT16.03.01",
+    "target": "TX16.03.03",
+    "type": "Reference"
+  },
+  {
+    "source": "TX16.03.03",
+    "target": "T16.03.01",
+    "type": "Reference"
+  },
+  {
+"source": "PL17.02.01",
+"target": "L17.02.01",
+"type": "Proof"
+},
+{
+"source": "TX17.02.04",
+"target": "L17.02.01",
+"type": "Reference"
+},
+{
+"source": "TX17.01.02",
+"target": "TX17.01.01",
+"type": "Reference"
+},
+{
+"source": "TX17.01.03",
+"target": "TX17.01.02",
+"type": "Reference"
+},
+{
+"source": "TX17.02.02",
+"target": "TX17.02.01",
+"type": "Reference"
+},
+{
+"source": "TX17.02.03",
+"target": "TX17.02.02",
+"type": "Reference"
+},
+  {
+"source": "PT17.02.01",
+"target": "T17.02.01",
+"type": "Proof"
+},
+{
+"source": "PT17.02.01",
+"target": "L17.01",
+"type": "Reference"
+},
+{
+"source": "R17.02.01",
+"target": "T17.02.01",
+"type": "Reference"
+},
+{
+"source": "E17.02.01",
+"target": "T17.02.01",
+"type": "Reference"
+},
+  {
+"source": "TX17.03.03",
+"target": "D17.03.01",
+"type": "Reference"
+},
+{
+"source": "L17.03.01",
+"target": "PL17.03.01",
+"type": "Reference"
+},
+{
+"source": "PL17.03.01",
+"target": "D17.03.01",
+"type": "Reference"
+},
+{
+"source": "T17.03.01",
+"target": "PT17.03.01",
+"type": "Reference"
+},
+{
+"source": "PT17.03.01",
+"target": "L17.03.01",
+"type": "Reference"
+},
+{
+"source": "PT17.03.01",
+"target": "D17.03.01",
+"type": "Reference"
+},
+{
+"source": "R17.03.01",
+"target": "T17.03.01",
+"type": "Reference"
+},
+{
+"source": "E17.03.01",
+"target": "T17.03.01",
+"type": "Reference"
+},
+{
+"source": "E17.03.01",
+"target": "R17.03.01",
+"type": "Reference"
+},
+{
+"source": "E17.03.01",
+"target": "D17.03.01",
+"type": "Reference"
+},
+    {
+    "source": "TX17.04.01",
+    "target": "TX17.04.02",
+    "type": "Reference"
+  },
+  {
+    "source": "TX17.04.02",
+    "target": "TX17.04.03",
+    "type": "Reference"
+  },
+  {
+    "source": "TX17.04.03",
+    "target": "TX17.04.04",
+    "type": "Reference"
+  },
+  {
+    "source": "TX17.04.04",
+    "target": "TX17.04.05",
+    "type": "Reference"
+  },
+  {
+    "source": "TX17.04.05",
+    "target": "T17.04.01",
+    "type": "Reference"
+  },
+  {
+    "source": "T17.04.01",
+    "target": "PT17.04.01",
+    "type": "Reference"
+  },
+  {
+    "source": "PT17.04.01",
+    "target": "R17.04.01",
+    "type": "Reference"
+  },
+  {
+    "source": "TX17.04.04",
+    "target": "T17.04.01",
+    "type": "Reference"
+  },
+  {
+    "source": "R17.04.01",
+    "target": "T17.04.01",
+    "type": "Reference"
+  },
+    {
+    "source": "TX17.05.01",
+    "target": "TX17.05.02",
+    "type": "Reference"
+  },
+  {
+    "source": "TX17.05.02",
+    "target": "TX17.05.03",
+    "type": "Reference"
+  },
+  {
+    "source": "TX17.05.03",
+    "target": "TX17.05.04",
+    "type": "Reference"
+  },
+  {
+    "source": "TX17.05.04",
+    "target": "T17.05.01",
+    "type": "Reference"
+  },
+    {
+    "source": "TX17.06.01",
+    "target": "TX17.06.02",
+    "type": "Reference"
+  },
+  {
+    "source": "TX17.06.02",
+    "target": "E17.06.01",
+    "type": "Reference"
+  },
+  {
+    "source": "E17.06.01",
+    "target": "TX17.06.03",
+    "type": "Reference"
+  },
+  {
+    "source": "TX17.06.02",
+    "target": "TX17.06.03",
     "type": "Reference"
   }
 ]
