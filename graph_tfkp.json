@@ -5593,7 +5593,177 @@ type: "Example"
     "source": "TX17.06.02",
     "target": "TX17.06.03",
     "type": "Reference"
+  }, 
+
+  {
+    "source": "TX02.01.01",
+    "target": "B01.01.01"
+  },
+  {
+    "source": "D02.01.01",
+    "target": "D01.03.07"
+  },
+  {
+    "source": "TX02.01.02",
+    "target": "TX01.01.01"
+  },
+  {
+    "source": "D02.01.02",
+    "target": "D01.03.03"
+  },
+  {
+    "source": "TX02.01.03",
+    "target": "D01.03.05"
+  },
+  {
+    "source": "PROP02.01.01",
+    "target": "PROP01.01.03"
+  },
+  {
+    "source": "TX02.01.04",
+    "target": "T01.03.01"
+  },
+  {
+    "source": "D02.01.03",
+    "target": "D01.03.04"
+  },
+  {
+    "source": "TX02.01.05",
+    "target": "TX01.03.05"
+  },
+  {
+    "source": "PROP02.01.02",
+    "target": "PROP01.01.02"
+  },
+  {
+    "source": "D02.01.04",
+    "target": "D01.03.04"
+  },
+  {
+    "source": "TX02.01.06",
+    "target": "TX01.01.02"
+  },
+  {
+    "source": "T02.01.01",
+    "target": "D01.01.01"
+  },
+  {
+    "source": "PT02.01.01",
+    "target": "TX01.01.02"
+  },
+  {
+    "source": "D02.01.05",
+    "target": "D02.01.04"
+  },
+  {
+    "source": "D02.01.06",
+    "target": "T02.01.01"
+  },
+  {
+    "source": "TX02.01.07",
+    "target": "PROP02.01.03"
+  },
+  {
+    "source": "TX02.01.08",
+    "target": "PROP02.01.03"
+  },
+  {
+    "source": "PROP02.01.03",
+    "target": "D02.01.06"
+  },
+  {
+    "source": "PROP02.01.04",
+    "target": "D02.01.05"
+  },
+  {
+    "source": "TX02.01.09",
+    "target": "D02.01.06"
+  },
+  {
+    "source": "D02.01.07",
+    "target": "TX02.01.09"
+  },
+  {
+    "source": "D02.01.08",
+    "target": "D02.01.07"
+  },
+  {
+    "source": "D02.01.09",
+    "target": "D02.01.06"
+  },
+  {
+    "source": "TX02.01.10",
+    "target": "TX01.01.02"
+  },
+  {
+    "source": "T02.01.02",
+    "target": "D02.01.04"
+  },
+  {
+    "source": "PT02.01.02",
+    "target": "D02.01.04"
+  },
+  {
+    "source": "D02.01.10",
+    "target": "D01.03.07"
+  },
+  {
+    "source": "TX02.01.11",
+    "target": "D02.01.10"
+  },
+  {
+    "source": "T02.01.03",
+    "target": "D02.01.10"
+  },
+  {
+    "source": "PT02.01.03",
+    "target": "T01.03.03"
+  },
+  {
+    "source": "D02.01.11",
+    "target": "D02.01.10"
+  },
+  {
+    "source": "T02.01.04",
+    "target": "D02.01.11"
+  },
+  {
+    "source": "PT02.01.04",
+    "target": "T02.01.03"
+  },
+  {
+    "source": "D02.01.12",
+    "target": "D01.03.07"
+  },
+  {
+    "source": "TX02.01.12",
+    "target": "D02.01.12"
+  },
+  {
+    "source": "T02.01.05",
+    "target": "D02.01.04"
+  },
+  {
+    "source": "PT02.01.05",
+    "target": "T02.01.04"
+  },
+  {
+    "source": "T02.01.06",
+    "target": "D02.01.04"
+  },
+  {
+    "source": "PT02.01.06",
+    "target": "T02.01.01"
+  },
+  {
+    "source": "D02.01.13",
+    "target": "D02.01.05"
+  },
+  {
+    "source": "TX02.01.13",
+    "target": "T02.01.06"
   }
+
 ]
 
 }
