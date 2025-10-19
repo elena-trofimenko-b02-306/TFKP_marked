@@ -5595,6 +5595,12 @@ type: "Example"
     "type": "Reference"
   }, 
 
+ ```json
+[
+  {
+    "source": "C02.01",
+    "target": "C01"
+  },
   {
     "source": "TX02.01.01",
     "target": "B01.01.01"
@@ -5652,68 +5658,28 @@ type: "Example"
     "target": "TX01.01.02"
   },
   {
-    "source": "D02.01.05",
-    "target": "D02.01.04"
-  },
-  {
-    "source": "D02.01.06",
-    "target": "T02.01.01"
-  },
-  {
     "source": "TX02.01.07",
-    "target": "PROP02.01.03"
+    "target": "PROP01.01.03"
   },
   {
     "source": "TX02.01.08",
-    "target": "PROP02.01.03"
-  },
-  {
-    "source": "PROP02.01.03",
-    "target": "D02.01.06"
-  },
-  {
-    "source": "PROP02.01.04",
-    "target": "D02.01.05"
+    "target": "TX01.01.01"
   },
   {
     "source": "TX02.01.09",
-    "target": "D02.01.06"
-  },
-  {
-    "source": "D02.01.07",
-    "target": "TX02.01.09"
-  },
-  {
-    "source": "D02.01.08",
-    "target": "D02.01.07"
-  },
-  {
-    "source": "D02.01.09",
-    "target": "D02.01.06"
+    "target": "D01.01.01"
   },
   {
     "source": "TX02.01.10",
     "target": "TX01.01.02"
   },
   {
-    "source": "T02.01.02",
-    "target": "D02.01.04"
-  },
-  {
-    "source": "PT02.01.02",
-    "target": "D02.01.04"
-  },
-  {
     "source": "D02.01.10",
     "target": "D01.03.07"
   },
   {
-    "source": "TX02.01.11",
-    "target": "D02.01.10"
-  },
-  {
     "source": "T02.01.03",
-    "target": "D02.01.10"
+    "target": "D01.03.07"
   },
   {
     "source": "PT02.01.03",
@@ -5721,48 +5687,92 @@ type: "Example"
   },
   {
     "source": "D02.01.11",
-    "target": "D02.01.10"
+    "target": "D01.03.07"
   },
-  {
-    "source": "T02.01.04",
-    "target": "D02.01.11"
-  },
-  {
-    "source": "PT02.01.04",
-    "target": "T02.01.03"
-  },
+
   {
     "source": "D02.01.12",
     "target": "D01.03.07"
   },
   {
-    "source": "TX02.01.12",
-    "target": "D02.01.12"
-  },
-  {
-    "source": "T02.01.05",
-    "target": "D02.01.04"
-  },
-  {
     "source": "PT02.01.05",
     "target": "T02.01.04"
   },
+```json
+[
   {
-    "source": "T02.01.06",
+    "source": "TX03.01.09",
     "target": "D02.01.04"
   },
   {
-    "source": "PT02.01.06",
-    "target": "T02.01.01"
-  },
-  {
-    "source": "D02.01.13",
+    "source": "TX03.01.09",
     "target": "D02.01.05"
   },
   {
-    "source": "TX02.01.13",
+    "source": "TX03.01.10",
+    "target": "D02.01.05"
+  },
+  {
+    "source": "T03.01.06",
+    "target": "T02.01.02"
+  },
+  {
+    "source": "PT03.01.04",
+    "target": "T02.01.05"
+  },
+  {
+    "source": "PROP03.01.13",
+    "target": "D02.01.04"
+  },
+  {
+    "source": "TX03.01.15",
     "target": "T02.01.06"
+  },
+  {
+    "source": "TX03.01.15",
+    "target": "D02.01.04"
+  },
+  {
+    "source": "PT03.01.06",
+    "target": "T02.01.05"
+  },
+  {
+    "source": "TX03.01.09",
+    "target": "T01.03.05"
+  },
+  {
+    "source": "TX03.01.10",
+    "target": "PROP01.01.03"
+  },
+  {
+    "source": "TX03.01.11",
+    "target": "D01.02.01"
+  },
+  {
+    "source": "PROP03.01.10",
+    "target": "TX01.02.03"
+  },
+  {
+    "source": "PROP03.01.11",
+    "target": "PROP01.02.01"
+  },
+  {
+    "source": "D03.01.13",
+    "target": "D01.02.01"
+  },
+  {
+    "source": "TX03.01.14",
+    "target": "TX01.02.02"
+  },
+  {
+    "source": "D03.01.14",
+    "target": "TX01.02.02"
+  },
+  {
+    "source": "PROP03.01.16",
+    "target": "PROP01.02.01"
   }
+
 
 ]
 
