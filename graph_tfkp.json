@@ -5771,7 +5771,44 @@ type: "Example"
   {
     "source": "PROP03.01.16",
     "target": "PROP01.02.01"
+  },
+   {
+    "source": "PT04.02.01",
+    "target": "T03.01.02"
+  },
+  {
+    "source": "TX04.01.09",
+    "target": "D01.01.01"
+  },
+  {
+    "source": "TX04.01.09",
+    "target": "D01.01.02"
+  },
+  {
+    "source": "TX04.01.09", 
+    "target": "D01.01.03"
+  },
+  {
+    "source": "TX04.01.09",
+    "target": "PROP01.01.02"
+  },
+  {
+    "source": "TX04.01.10",
+    "target": "D01.01.01"
+  },
+  {
+    "source": "TX04.01.10",
+    "target": "D01.01.02"
+  },
+  {
+    "source": "TX04.01.10",
+    "target": "D01.01.03"
+  },
+  {
+    "source": "TX04.01.10",
+    "target": "PROP01.01.02"
   }
+
 
 
 ]
