@@ -6002,8 +6002,152 @@ type: "Example"
   {
     "source": "PT06.01.03",
     "target": "D01.03.02"
+  },
+  {
+    "source": "PT07.02.01",
+    "target": "T05.01.01"
+  },
+  {
+    "source": "PT07.02.01",
+    "target": "CON05.01.01"
+  },
+  {
+    "source": "PT07.02.01",
+    "target": "CON06.01.01"
+  },
+  {
+    "source": "PCON07.02.03",
+    "target": "T05.01.01"
+  },
+  
+  {
+    "source": "TX07.01.05",
+    "target": "E04.01.02"
+  },
+  {
+    "source": "TX07.02.01", 
+    "target": "T04.02.03"
+  },
+  {
+    "source": "PT07.02.01",
+    "target": "T04.01.01"
+  },
+  {
+    "source": "PT07.02.01",
+    "target": "T04.02.03"
+  },
+  {
+    "source": "CON07.02.01",
+    "target": "T04.02.03"
+  },
+  {
+    "source": "PCON07.02.01",
+    "target": "T04.02.03"
+  },
+  {
+    "source": "PCON07.02.03",
+    "target": "T03.01.03"
+  },
+   {
+    "source": "TX07.01.04",
+    "target": "D02.01.05"
+  },
+  {
+    "source": "PROP07.01.01",
+    "target": "D02.01.05"
+  },
+  {
+    "source": "PROP07.01.02",
+    "target": "D02.01.05"
+  },
+  {
+    "source": "L07.01.01",
+    "target": "D02.01.05"
+  },
+  {
+    "source": "PL07.01.01",
+    "target": "D02.01.05"
+  },
+  {
+    "source": "PROP07.01.03",
+    "target": "D02.01.05"
+  },
+  {
+    "source": "PT07.01.01",
+    "target": "D02.01.05"
+  },
+  {
+    "source": "L07.02.01",
+    "target": "D02.01.05"
+  },
+  {
+    "source": "PL07.02.01",
+    "target": "D02.01.05"
+  },
+  {
+    "source": "PT07.02.01",
+    "target": "D02.01.05"
+  },
+  {
+    "source": "CON07.02.01",
+    "target": "D02.01.05"
+  },
+  {
+    "source": "PCON07.02.01",
+    "target": "D02.01.05"
+  },
+  {
+    "source": "PCON07.02.03",
+    "target": "D02.01.05"
+  },
+  {
+    "source": "PT07.02.01",
+    "target": "T02.01.05"
+  },
+   {
+    "source": "TX07.01.03",
+    "target": "D01.03.06"
+  },
+  {
+    "source": "TX07.01.06", 
+    "target": "D01.03.07"
+  },
+  {
+    "source": "T07.01.01",
+    "target": "D01.03.07"
+  },
+  {
+    "source": "PT07.01.01",
+    "target": "D01.03.07"
+  },
+  {
+    "source": "TX07.02.01",
+    "target": "D01.03.07"
+  },
+  {
+    "source": "PT07.02.01",
+    "target": "D01.03.07"
+  },
+  {
+    "source": "CON07.02.01",
+    "target": "D01.03.07"
+  },
+  {
+    "source": "TX07.02.03",
+    "target": "D01.03.07"
+  },
+  {
+    "source": "D07.02.04",
+    "target": "D01.03.07"
+  },
+  {
+    "source": "CON07.02.02",
+    "target": "D01.03.07"
+  },
+  {
+    "source": "CON07.02.03",
+    "target": "D01.03.07"
   }
-
 
 
 
