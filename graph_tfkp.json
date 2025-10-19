@@ -3141,7 +3141,7 @@ type: "Example"
   {
     "id": "PT17.04.01",
     "name": "Доказательство теоремы об асимптотике",
-    "type": "ProofOfTheorem"
+    "type": "Proof of theorem"
   },
   {
     "id": "R17.04.01",
