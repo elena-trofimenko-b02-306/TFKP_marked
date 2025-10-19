@@ -1492,7 +1492,7 @@ type: "Proof of consequence"
 "name": "Примеры целых трансцендентных функций",
 "type": "Example"
 },
-    {
+{
 id : "C09",
 name: "Глава 9",
 type: "Chapter"
@@ -7217,7 +7217,304 @@ type: "Example"
     {
       "source": "TX10.02.10",
       "target": "D01.03.06"
-    }
+    },
+  {
+    "source": "TX11.01.01",
+    "target": "TX10.01.01"
+  },
+  {
+    "source": "T11.01.01",
+    "target": "T10.01.01"
+  },
+  {
+    "source": "T11.01.04",
+    "target": "T10.01.02"
+  },
+  {
+    "source": "TX11.02.01",
+    "target": "TX10.01.03"
+  },
+   {
+    "source": "T11.01.01",
+    "target": "T09.01.02"
+  },
+  {
+    "source": "T11.01.01",
+    "target": "D09.01.01"
+  },
+  {
+    "source": "T11.01.02",
+    "target": "T09.01.02"
+  },
+  {
+    "source": "T11.01.03",
+    "target": "L09.01.02"
+  },
+  {
+    "source": "TX11.03.01",
+    "target": "D09.01.02"
+  },
+  {
+    "source": "TX11.03.02",
+    "target": "D09.01.02"
+  },
+   {
+    "source": "TX11.01.01",
+    "target": "D08.02.01"
+  },
+  {
+    "source": "TX11.01.01",
+    "target": "D08.02.02"
+  },
+  {
+    "source": "TX11.01.01", 
+    "target": "D08.02.03"
+  },
+  {
+    "source": "T11.01.01",
+    "target": "T08.02.02"
+  },
+  {
+    "source": "T11.01.04",
+    "target": "CON08.02.01"
+  },
+  {
+    "source": "TX11.03.01",
+    "target": "TX08.02.03"
+  },
+  {
+    "source": "TX11.03.02",
+    "target": "TX08.02.03"
+  },
+  {
+    "source": "TX11.03.03",
+    "target": "TX08.02.03"
+  },
+   {
+    "source": "T11.01.01",
+    "target": "D07.01.02"
+  },
+  {
+    "source": "T11.01.01",
+    "target": "PROP07.01.04"
+  },
+  {
+    "source": "T11.01.01",
+    "target": "T07.01.01"
+  },
+  {
+    "source": "T11.01.01",
+    "target": "T07.02.01"
+  },
+  {
+    "source": "T11.01.02",
+    "target": "T07.02.01"
+  },
+  {
+    "source": "T11.01.04",
+    "target": "CON07.02.03"
+  },
+  {
+    "source": "TX11.02.01",
+    "target": "L07.02.01"
+  },
+  {
+    "source": "T11.02.01",
+    "target": "L07.02.01"
+  },
+  {
+    "source": "T11.01.03",
+    "target": "CON06.01.01"
+  },
+  {
+    "source": "T11.01.03",
+    "target": "T06.01.02"
+  },
+  {
+    "source": "T11.01.04",
+    "target": "D06.01.03"
+  },
+  {
+    "source": "T11.01.04",
+    "target": "TX06.01.03"
+  },
+  {
+    "source": "T11.01.05",
+    "target": "T06.01.03"
+  },
+  {
+    "source": "T11.01.06",
+    "target": "T05.01.05"
+  },
+  {
+    "source": "T11.01.07",
+    "target": "T06.01.01"
+  },{
+    "source": "T11.01.04",
+    "target": "T05.01.03"
+  },
+  {
+    "source": "T11.01.04",
+    "target": "CON05.01.01"
+  },
+  {
+    "source": "T11.01.05",
+    "target": "T05.01.02"
+  },
+  {
+    "source": "T11.01.06",
+    "target": "T05.01.05"
+  },
+  {
+    "source": "TX11.02.01",
+    "target": "T05.01.01"
+  },
+  {
+    "source": "T11.02.01",
+    "target": "T05.01.01"
+  },
+  {
+    "source": "T11.02.01",
+    "target": "T05.01.04"
+  },
+  {
+    "source": "T11.01.01",
+    "target": "T04.01.01"
+  },
+  {
+    "source": "T11.01.01",
+    "target": "T04.02.03"
+  },
+  {
+    "source": "T11.01.02",
+    "target": "T04.02.03"
+  },
+  {
+    "source": "T11.01.03",
+    "target": "T04.02.03"
+  },
+  {
+    "source": "T11.01.04",
+    "target": "T04.02.03"
+  },
+  {
+    "source": "TX11.02.01",
+    "target": "D04.01.08"
+  },
+  {
+    "source": "TX11.02.01",
+    "target": "TX04.01.06"
+  },
+  {
+    "source": "T11.02.01",
+    "target": "D04.01.08"
+  },
+  {
+    "source": "T11.01.03",
+    "target": "D03.01.01"
+  },
+  {
+    "source": "T11.01.03",
+    "target": "T03.01.02"
+  },
+  {
+    "source": "T11.01.04",
+    "target": "T03.01.03"
+  },
+  {
+    "source": "T11.01.05",
+    "target": "T03.01.03"
+  },
+  {
+    "source": "T11.01.06",
+    "target": "T03.01.03"
+  },
+  {
+    "source": "T11.01.07",
+    "target": "T03.01.03"
+  },
+  {
+    "source": "TX11.02.01",
+    "target": "T03.01.03"
+  },
+  {
+    "source": "T11.02.01",
+    "target": "T03.01.03"
+  },
+  {
+    "source": "T11.01.01",
+    "target": "D02.01.05"
+  },
+  {
+    "source": "T11.01.01",
+    "target": "D02.01.06"
+  },
+  {
+    "source": "T11.01.04",
+    "target": "T02.01.06"
+  },
+  {
+    "source": "T11.01.04",
+    "target": "D02.01.13"
+  },
+  {
+    "source": "T11.01.05",
+    "target": "D02.01.11"
+  },
+  {
+    "source": "T11.01.06",
+    "target": "D02.01.08"
+  },
+  {
+    "source": "TX11.02.01",
+    "target": "D02.01.04"
+  },
+  {
+    "source": "T11.02.01",
+    "target": "T02.01.01"
+  },
+  {
+    "source": "T11.01.01",
+    "target": "D01.03.07"
+  },
+  {
+    "source": "T11.01.01",
+    "target": "TX01.02.02"
+  },
+  {
+    "source": "T11.01.04",
+    "target": "D01.01.03"
+  },
+  {
+    "source": "T11.01.06",
+    "target": "D01.01.03"
+  },
+  {
+    "source": "T11.01.07",
+    "target": "D01.01.03"
+  },
+  {
+    "source": "TX11.02.01",
+    "target": "D01.02.01"
+  },
+  {
+    "source": "TX11.02.01",
+    "target": "TX01.02.02"
+  },
+  {
+    "source": "TX11.03.01",
+    "target": "D01.03.07"
+  },
+  {
+    "source": "TX11.03.02",
+    "target": "D01.03.07"
+  },
+  {
+    "source": "TX11.03.03",
+    "target": "D01.03.07"
+  }
+  
+  
   
 
   
