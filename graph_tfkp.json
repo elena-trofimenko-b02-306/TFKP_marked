@@ -5888,6 +5888,120 @@ type: "Example"
   {
     "source": "PT05.01.05",
     "target": "D01.02.01"
+  },
+  
+  {
+    "source": "PT06.01.01",
+    "target": "T05.01.03"
+  },
+  {
+    "source": "PT06.01.01",
+    "target": "CON05.01.01"
+  },
+{
+    "source": "PT06.01.01", 
+    "target": "T04.02.03"
+  },
+  {
+    "source": "TX06.01.01",
+    "target": "T03.01.03"
+  },
+  {
+    "source": "T06.01.01",
+    "target": "R03.01.03"
+  },
+  {
+    "source": "PT06.01.01",
+    "target": "T03.01.02"
+  },
+  {
+    "source": "R06.01.01",
+    "target": "T03.01.03"
+  },
+  {
+    "source": "TX06.01.02",
+    "target": "T03.01.03"
+  },
+  {
+    "source": "PT06.01.02",
+    "target": "T03.01.03"
+  },
+  
+  {
+    "source": "TX06.01.01",
+    "target": "D02.01.05"
+  },
+  {
+    "source": "T06.01.01",
+    "target": "D02.01.05"
+  },
+  {
+    "source": "PT06.01.01",
+    "target": "D02.01.05"
+  },
+  {
+    "source": "TX06.01.03",
+    "target": "D02.01.05"
+  },
+  {
+    "source": "T06.01.03",
+    "target": "D02.01.05"
+  },
+  {
+    "source": "PT06.01.03",
+    "target": "D02.01.05"
+  },
+  {
+    "source": "PT06.01.03",
+    "target": "T02.01.05"
+  },
+  {
+    "source": "CON06.01.02",
+    "target": "D02.01.05"
+  },
+  {
+    "source": "TX06.01.01",
+    "target": "D01.03.01"
+  },
+  {
+    "source": "TX06.01.01", 
+    "target": "D01.03.02"
+  },
+  {
+    "source": "T06.01.01",
+    "target": "D01.03.01"
+  },
+  {
+    "source": "PT06.01.01",
+    "target": "D01.03.01"
+  },
+  {
+    "source": "PT06.01.01",
+    "target": "D01.03.02"
+  },
+  {
+    "source": "PT06.01.02",
+    "target": "D01.03.01"
+  },
+  {
+    "source": "PT06.01.02",
+    "target": "D01.03.02"
+  },
+  {
+    "source": "TX06.01.03",
+    "target": "D01.03.01"
+  },
+  {
+    "source": "TX06.01.03",
+    "target": "D01.03.02"
+  },
+  {
+    "source": "PT06.01.03",
+    "target": "D01.03.01"
+  },
+  {
+    "source": "PT06.01.03",
+    "target": "D01.03.02"
   }
 
 
