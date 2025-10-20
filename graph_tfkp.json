@@ -7684,6 +7684,134 @@ type: "Example"
   {
     "source": "PT12.02.02",
     "target": "PT06.01.01"
+  },
+  {
+    "source": "T12.01.01",
+    "target": "T05.01.03"
+  },
+  {
+    "source": "PT12.01.01",
+    "target": "PT05.01.03"
+  },
+  {
+    "source": "T12.01.01",
+    "target": "T05.01.04"
+  },
+  {
+    "source": "PT12.01.01",
+    "target": "PT05.01.04"
+  },
+  {
+    "source": "T12.01.01",
+    "target": "T05.01.01"
+  },
+  {
+    "source": "PT12.01.01",
+    "target": "PT05.01.01"
+  },
+  {
+    "source": "T12.02.02",
+    "target": "PT05.01.03"
+  },
+  {
+    "source": "PT12.02.02",
+    "target": "PT05.01.03"
+  },
+  {
+    "source": "T12.01.01",
+    "target": "T04.02.03"
+  },
+  {
+    "source": "PT12.01.01",
+    "target": "PT04.02.03"
+  },
+  {
+    "source": "T12.01.01",
+    "target": "T04.01.01"
+  },
+  {
+    "source": "PT12.01.01",
+    "target": "PT04.01.02"
+  },
+  {
+    "source": "T12.02.02",
+    "target": "PT04.02.03"
+  },
+  {
+    "source": "PT12.02.02",
+    "target": "PT04.02.03"
+  },
+  {
+    "source": "T12.01.01",
+    "target": "T03.01.03"
+  },
+  {
+    "source": "PT12.01.01",
+    "target": "PT03.01.01"
+  },
+  {
+    "source": "T12.01.01",
+    "target": "R03.01.03"
+  },
+  {
+    "source": "CON12.01.01",
+    "target": "T12.01.01"
+  },
+  {
+    "source": "T12.02.02",
+    "target": "PT03.01.01"
+  },
+  {
+    "source": "PT12.02.02",
+    "target": "PT03.01.01"
+  },
+  {
+    "source": "T12.01.01",
+    "target": "D02.01.05"
+  },
+  {
+    "source": "PT12.01.01",
+    "target": "PT02.01.01"
+  },
+  {
+    "source": "T12.01.01",
+    "target": "T02.01.05"
+  },
+  {
+    "source": "PT12.01.01",
+    "target": "PT02.01.05"
+  },
+  {
+    "source": "T12.02.02",
+    "target": "PT02.01.01"
+  },
+  {
+    "source": "PT12.02.02",
+    "target": "PT02.01.01"
+  },
+  {
+    "source": "T12.01.01",
+    "target": "T01.03.02"
+  },
+  {
+    "source": "PT12.01.01",
+    "target": "T01.03.02"
+  },
+  {
+    "source": "T12.02.01",
+    "target": "T01.03.03"
+  },
+  {
+    "source": "PT12.02.01",
+    "target": "PT01.03.01"
+  },
+  {
+    "source": "T12.02.04",
+    "target": "T01.03.03"
+  },
+  {
+    "source": "PT12.02.04",
+    "target": "PT01.03.01"
   }
 
   
